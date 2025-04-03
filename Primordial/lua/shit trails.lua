@@ -1,0 +1,1 @@
+callbacks.add(e_callbacks.PAINT, function() debug_overlay.add_sphere(entity_list.get_local_player():get_render_origin(), 1, 20, 5, color_t.from_hsb((global_vars.real_time() * 50) % 100 / 100, 1, 1), 1.0) end)
