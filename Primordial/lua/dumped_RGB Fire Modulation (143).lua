@@ -1,0 +1,1 @@
+https://primordial.dev/resources/rainbow-accent-color.13/

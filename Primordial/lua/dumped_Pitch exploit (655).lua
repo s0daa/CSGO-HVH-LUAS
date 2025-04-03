@@ -1,0 +1,81 @@
+local pitch = menu.find("antiaim","main", "angles","pitch")
+local lib = require("primordial/Player state library.641")
+local enable = menu.add_checkbox("Pitch Exploit", "Enable")
+local selection = menu.add_multi_selection("Pitch Exploit", "Exploit When", {"Standing", "Running", "Slowwalk", "Crouch", "Jump", "Jump-Crouch"})
+local slider = menu.add_slider("Pitch Exploit", "Speed", 1, 100)
+
+local local_player = entity_list.get_local_player()
+
+local function pitch1(ctx)
+    local player_state = lib.get_state()
+  if enable:get() then
+    if player_state == 1 then
+        if selection:get(1)then
+            if not local_player then
+                return
+            end
+            if globals.tick_count() % slider:get() * 2 == 0 or globals.tick_count() % slider:get() == 0 then
+                ctx:set_pitch(-89)
+            end
+        else
+            return
+        end
+    elseif player_state == 2 then
+        if selection:get(2)then
+            if not local_player then
+                return
+            end
+            if globals.tick_count() % slider:get() * 2 == 0 or globals.tick_count() % slider:get() == 0 then
+                ctx:set_pitch(-89)
+            end
+        else
+            return
+        end
+    elseif player_state == 3 then
+        if selection:get(3)then
+            if not local_player then
+                return
+            end
+            if globals.tick_count() % slider:get() * 2 == 0 or globals.tick_count() % slider:get() == 0 then
+                ctx:set_pitch(-89)
+            end
+        else
+            return
+        end
+    elseif player_state == 4 then
+        if selection:get(4)then
+            if not local_player then
+                return
+            end
+            if globals.tick_count() % slider:get() * 2 == 0 or globals.tick_count() % slider:get() == 0 then
+                ctx:set_pitch(-89)
+            end
+        else
+            return
+        end
+    elseif player_state == 5 then
+        if selection:get(5)then
+            if not local_player then
+                return
+            end
+            if globals.tick_count() % slider:get() * 2 == 0 or globals.tick_count() % slider:get() == 0 then
+                ctx:set_pitch(-89)
+            end
+        else
+            return
+        end
+    elseif player_state == 6 then
+        if selection:get(6)then
+        if not local_player then
+            return
+        end
+        if globals.tick_count() % slider:get() * 2 == 0 or globals.tick_count() % slider:get() == 0 then
+            ctx:set_pitch(-89)
+        end
+    else
+        return
+    end
+    end
+end
+end
+callbacks.add(e_callbacks.ANTIAIM, pitch1)
