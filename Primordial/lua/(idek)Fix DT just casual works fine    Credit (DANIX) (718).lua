@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function fix_dt() 
     if not exploits.get_charge() == 0 then return end 
 

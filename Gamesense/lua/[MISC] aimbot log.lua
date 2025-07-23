@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local globals_frametime = globals.frametime
 local globals_tickinterval = globals.tickinterval
 local entity_is_enemy = entity.is_enemy

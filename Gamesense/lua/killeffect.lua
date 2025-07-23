@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local getui = ui.get
 local entindexId = client.userid_to_entindex
 local localPlayer = entity.get_local_player()

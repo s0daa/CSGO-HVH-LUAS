@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- #region ffi
 local ffi = require("ffi")
 local steam_http_raw = ffi.cast("uint32_t**", ffi.cast("char**", ffi.cast("char*", memory.find_pattern("client.dll", "B9 ? ? ? ? E8 ? ? ? ? 83 3D ? ? ? ? ? 0F 84")) + 1)[0] + 48)[0] or error("steam_http error")

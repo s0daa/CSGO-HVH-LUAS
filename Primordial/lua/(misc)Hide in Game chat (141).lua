@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local chat_tog = menu.add_checkbox("Invisible shit talk!", "Hide chat in game", false)
 	
 local function hide_chat()

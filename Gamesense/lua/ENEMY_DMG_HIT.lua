@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local vector = require("vector")
 local csgo_weapons = require("gamesense/csgo_weapons")
 local configure_combobox = ui.new_combobox( "RAGE", "Other", "Hitbox Selection",  

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local create_interface = require "interface"
 
 local function vtable_entry(instance, index, type)

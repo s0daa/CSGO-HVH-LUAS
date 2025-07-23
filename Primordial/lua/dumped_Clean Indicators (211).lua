@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local menu_color = select(2, unpack(menu.find("misc", "main", "config", "accent color")))
  local font = render.create_font("Arial", 13, 20,e_font_flags.ANTIALIAS)
  local screen_size = render.get_screen_size()

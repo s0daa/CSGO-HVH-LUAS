@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- local variables for API functions. any changes to the line below will be lost on re-generation
 local client_delay_call, client_find_signature, globals_realtime, panorama_open, error, print = client.delay_call, client.find_signature, globals.realtime, panorama.open, error, print
 

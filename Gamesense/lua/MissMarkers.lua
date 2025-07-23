@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- local variables for API functions. any changes to the line below will be lost on re-generation
 local client_set_event_callback, globals_frametime, globals_tickcount, math_floor, renderer_measure_text, renderer_text, renderer_world_to_screen, string_upper, pairs, ui_get, ui_new_checkbox, ui_new_color_picker, ui_reference, require = client.set_event_callback, globals.frametime, globals.tickcount, math.floor, renderer.measure_text, renderer.text, renderer.world_to_screen, string.upper, pairs, ui.get, ui.new_checkbox, ui.new_color_picker, ui.reference, require
 

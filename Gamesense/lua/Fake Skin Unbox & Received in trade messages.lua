@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local AutoDisconnect, AutoDisconnectD, AutoRevertName, HideNameChange, StatTrakWeapon, UnboxMessage, UseSkinsList, CustomGapValue, HasRan, ChatClean = false, false, false, false, false, false, false, false, false, true
 local ui_get, ui_set, ui_reference, ui_new_checkbox, ui_new_multiselect, ui_new_combobox, ui_new_listbox, ui_new_button, ui_set_visible, ui_set_callback = ui.get, ui.set, ui.reference, ui.new_checkbox, ui.new_multiselect, ui.new_combobox, ui.new_listbox, ui.new_button, ui.set_visible, ui.set_callback
 local client_set_event_callback, client_unset_event_callback, client_set_clan_tag, client_userid_to_entindex, client_delay_call, client_exec = client.set_event_callback, client.unset_event_callback, client.set_clan_tag, client.userid_to_entindex, client.delay_call, client.exec

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local thirdperson = menu.find("visuals", "view", "thirdperson", "enable")
 local dist = menu.find("visuals", "view", "thirdperson", "distance")
 

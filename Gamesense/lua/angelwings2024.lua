@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- This file was generated using Luraph Obfuscator v13.8.1
 -- Cracked by zxkilla (internetanime)
 

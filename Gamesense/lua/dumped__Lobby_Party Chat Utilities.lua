@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = panorama.open()
 slot1 = slot0.MyPersonaAPI
 slot4 = slot0.FriendsListAPI

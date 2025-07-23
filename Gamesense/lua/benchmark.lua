@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 
 local QueryPerformanceCounterAddr = utils.find_pattern("tier0.dll", "FF 15 ? ? ? ? 80 3D ? ? ? ? ? 74 16")
 

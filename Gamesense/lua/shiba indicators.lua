@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local w, h = client.screen_size()
 local center = { w/2, h/2 }
 local offset = 64

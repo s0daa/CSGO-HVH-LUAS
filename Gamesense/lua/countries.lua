@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = {
 	[1353.0] = "CF",
 	[1365.0] = "BY",

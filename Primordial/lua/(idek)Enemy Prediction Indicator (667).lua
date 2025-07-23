@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --Enemy Prediction Indicator--
 ffi.cdef [[
     typedef void*(__thiscall* shell_execute_t)(void*, const char*, const char*); 

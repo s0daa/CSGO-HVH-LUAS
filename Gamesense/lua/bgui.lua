@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local KF = require("gamesense/nyx_lua_framework")
 local ffi = require("ffi")
 

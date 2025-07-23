@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local slowwalk_key = menu.find("misc", "main", "movement", "slow walk")[2]
 local onkey = menu.add_text("Enable / Disable angles", "Move Anti Aim angles"):add_keybind("onkey")
 local onkey_pitch_Set = menu.add_checkbox("Enable / Disable angles", "Set pitch")

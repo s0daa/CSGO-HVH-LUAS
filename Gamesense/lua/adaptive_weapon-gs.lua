@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- downloaded from dsc.gg/southwestcfgs
 
 -- local variables for API functions. any changes to the line below will be lost on re-generation

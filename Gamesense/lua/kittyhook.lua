@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local try_require = function (module, msg) local success, result = pcall(require, module) if success then return result else return error(msg) end end
 local ffi = try_require('ffi', '~ Failed to require FFI, please make sure Allow unsafe scripts is enabled!')
 local pui = try_require("gamesense/pui", '~ Failed to Load Interfaces: https://gamesense.pub/forums/viewtopic.php?id=41761')

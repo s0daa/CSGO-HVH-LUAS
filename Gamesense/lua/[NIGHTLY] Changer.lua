@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local t_player_models = {
 
     ["markus"] = "models/player/custom_player/hekut/marcusreed/marcusreed.mdl",

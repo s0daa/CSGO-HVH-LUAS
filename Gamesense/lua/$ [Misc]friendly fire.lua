@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local friendly_fire = ui.new_checkbox("Rage", "Other", "DDoS")
 local function handle_friendly_fire()
     local state = ui.get(friendly_fire) and 1 or 0

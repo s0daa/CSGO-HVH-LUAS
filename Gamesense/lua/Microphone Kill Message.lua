@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ffi = require('ffi');
 local fsdll = "filesystem_stdio.dll"
 local fs = "VFileSystem017"

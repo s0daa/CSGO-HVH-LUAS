@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- ported by: Minarut
 local ffi = require("ffi")
 
@@ -73,7 +75,7 @@ ffi.cdef[[
 
     unsigned long GetTickCount();
 
-    // Константы виртуальных клавиш
+    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
     static const int VK_INSERT = 0x2D;
     static const int VK_LBUTTON = 0x01;
     static const int VK_UP = 0x26;

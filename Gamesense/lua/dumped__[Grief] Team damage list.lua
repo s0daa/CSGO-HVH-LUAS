@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = client.key_state
 slot1 = client.userid_to_entindex
 slot3 = database.write

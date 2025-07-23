@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = 15
 slot2 = {
 	"http://air.radiorecord.ru:805/dc_320",

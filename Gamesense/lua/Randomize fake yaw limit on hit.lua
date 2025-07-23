@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Useless since this feature has been removed by eso long time ago
 ﻿local var_0_0 = require("gamesense/uix")
 local var_0_1 = client

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local updated = "03/27/23"
 local username = ""..user.name.." ["..user.uid.."]"
 local welcoming = menu.add_text("Information", "Welcome to prediction.lua!")

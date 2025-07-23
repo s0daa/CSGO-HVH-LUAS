@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- v0.4
 
 menu.add_text("info", "Welcome " .. user.name .. " to BetterChams v0.4 by Lazarus!")

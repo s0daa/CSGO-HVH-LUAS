@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot1 = ui.new_color_picker("VISUALS", "Other ESP", "C4 Timer Color")
 slot2 = ui.new_slider("VISUALS", "Other ESP", "Radius", 20, 100, 50, true, "%")
 slot3 = ui.new_slider("VISUALS", "Other ESP", "Oval", 0, 50, 0, true, "%")

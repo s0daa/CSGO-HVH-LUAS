@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 
 local lua_name = "anxiety"
 local promote = ui.new_label("AA", "Other", "*currently playing with anxiety.rip*")

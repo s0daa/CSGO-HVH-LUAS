@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ideal_font = render.create_font("Smallest Pixel", 14, 700, e_font_flags.OUTLINE)
 weapon_info_font = render.create_font("GoForce Bold-Alt", 16, 760)
 

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local http = require "gamesense/http" or error("Missing gamesense/http")
 local images = require "gamesense/images" or error("Missing gamesense/images")
 local gif_decoder = require 'gamesense/gif_decoder' or error("Missing gamesense/gif_decoder")

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local shot_data = { }
 local font = render.create_font( "verdana.ttf", 18 )
 local hit_marker = gui.add_checkbox( "Enable world hitmarker", "lua>tab b" )

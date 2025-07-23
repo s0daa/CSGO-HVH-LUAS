@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local glow_material = materials.create( "glow_material", [[
       "VertexLitGeneric"
     {

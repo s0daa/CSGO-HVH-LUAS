@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = require("gamesense/named_pipes")
 slot2 = require("ffi").cast
 slot3 = vtable_bind("engine.dll", "VEngineClient014", 26, "bool(__thiscall*)(void*)")

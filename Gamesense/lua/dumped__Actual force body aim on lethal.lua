@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = ui.new_checkbox("RAGE", "Other", "Force body aim if lethal")
 slot1 = ui.new_multiselect("RAGE", "Other", "Enabled weapons", {
 	"Scout",

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ui.sidebar("\a8500FFFFYODIE.YAW [DEV]", "heart")
 local visual = ui.create('Visual',ui.get_icon('palette').."  \a85AFFFC8Visual Options")
 local switch = visual:switch(ui.get_icon('eye').." \a9fca2bffOn Screen Indicators", false)

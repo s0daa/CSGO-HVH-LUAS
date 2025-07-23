@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local jitter_offset = menu.add_slider("group", "jitter offset", -180, 180)
 local jitter_speed = menu.add_slider("group", "jitter speed", 1, 4)
 local lfake_limit = menu.add_slider("group", "left limit", 1, 60)

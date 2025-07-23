@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local player_models = {
     ["ctm_fbi"] = "models/player/custom_player/legacy/ctm_fbi.mdl",
     ["ctm_fbi_varianta"] = "models/player/custom_player/legacy/ctm_fbi_varianta.mdl",

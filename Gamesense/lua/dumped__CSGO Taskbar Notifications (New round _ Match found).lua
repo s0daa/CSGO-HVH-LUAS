@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = client.delay_call
 slot2 = globals.realtime
 slot4 = error

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local indicators = menu.add_multi_selection("Indicators", "indicators", {"DoubleTap", "Safe Point", "Baim", "Lethal","Min DMG", "Hide Shots", "FakeDuck", "Fake-Lag", "Fake"})
 local amgis = menu.add_checkbox("Shoppy Text", "Main Switch")
 local shoppyinput = menu.add_text_input("Shoppy Text", "Shoppy Name")

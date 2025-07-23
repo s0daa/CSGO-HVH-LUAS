@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local name = "cancel_reload_animation"
 
 local client_color_log = client.color_log 

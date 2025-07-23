@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Hide Chat
 -- Original post by oxisDOG
 -- https://gamesense.pub/forums/viewtopic.php?id=27572

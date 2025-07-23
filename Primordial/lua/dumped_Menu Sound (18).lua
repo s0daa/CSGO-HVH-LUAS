@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local menus = {
     enable = menu.add_checkbox("Menu Sound", "Enable", false),
     textbox = menu.add_text_input("Menu Sound", "File Name"),

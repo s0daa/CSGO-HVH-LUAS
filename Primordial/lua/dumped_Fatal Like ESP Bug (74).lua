@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local cl_ragdoll_physics_enable = cvars.cl_ragdoll_physics_enable
 local skeet_rags = menu.add_checkbox("Fatal","Fatal ESP bug")
 

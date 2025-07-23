@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ﻿local var_0_0 = require("gamesense/surface") or error("gamesense/surface library is required")
 local var_0_1 = require("gamesense/http") or error("gamesense/http library is required")
 local var_0_2 = require("gamesense/images") or error("gamesense/images library is required")

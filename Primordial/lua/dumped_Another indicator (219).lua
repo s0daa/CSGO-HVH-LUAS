@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --made by antiorder--
  local menu_color = select(2, unpack(menu.find("misc", "main", "config", "accent color")))
  local font = render.create_font("Verdana", 12, 565,e_font_flags.OUTLINE)

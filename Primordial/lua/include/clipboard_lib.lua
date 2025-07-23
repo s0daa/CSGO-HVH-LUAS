@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local vgui_sys = 'VGUI_System010'
 local vgui2 = 'vgui2.dll'
 

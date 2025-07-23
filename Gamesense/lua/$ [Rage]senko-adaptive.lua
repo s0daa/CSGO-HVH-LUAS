@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local vector = require 'vector';
 local weapon = require 'gamesense/csgo_weapons';
 local clipboard = require 'gamesense/clipboard';

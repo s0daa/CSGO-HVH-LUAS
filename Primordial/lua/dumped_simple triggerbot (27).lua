@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local menu_items = {
     key = menu.add_text("general", "enable"):add_keybind("key"),
     visible_only = menu.add_checkbox("general", "visible only"),

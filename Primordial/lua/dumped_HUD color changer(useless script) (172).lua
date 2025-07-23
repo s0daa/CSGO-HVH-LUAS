@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local advancedHudMode = menu.add_selection("Advanced HUD", "Advanced HUD", {"OFF", "Health Based", "Looping", "Custom"})
 local loopingDelay = menu.add_slider("Advanced HUD", "Looping Delay", 0, 3000, 1.0, 0, "ms")
 local custom_hud = menu.add_slider("Advanced HUD", "Custom HUD", 0, 10, 1.0, 0, " style")

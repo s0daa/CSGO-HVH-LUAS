@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ui_get, ui_set = ui.get, ui.set
 local draw_text = client.draw_text
 local draw_rectangle = client.draw_rectangle

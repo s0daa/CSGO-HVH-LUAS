@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ffi = require("ffi")
 local http = require("primordial/Lightweight HTTP Library.46")
 local panorama = require("primordial/panorama-library.248")

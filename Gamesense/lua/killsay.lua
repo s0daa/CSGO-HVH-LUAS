@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local IVEngineClient = utils.find_interface("engine.dll", "VEngineClient014") or error("Engine client is invalid")
 local IVEngineClientPtr = ffi.cast("void***", IVEngineClient)
 

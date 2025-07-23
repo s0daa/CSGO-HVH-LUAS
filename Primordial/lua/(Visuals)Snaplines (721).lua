@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local tp = menu.find("visuals", "view", "thirdperson", "enable")[2]
 local snaptoggle = menu.add_checkbox("ESP", "Snaplines")
 local snapdist = menu.add_slider("ESP", "Danger Distance", 50, 1000, 1, 0, "u")

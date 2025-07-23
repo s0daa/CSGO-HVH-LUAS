@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- kinda old release
 -- decided to post it on github since im planning to rework the entire thing
 

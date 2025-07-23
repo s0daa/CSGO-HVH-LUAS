@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 pen_dmg = ui.new_checkbox("MISC", "Miscellaneous", "Penetration damage")
 pen_dmg_pos = ui.new_slider("MISC", "Miscellaneous", "Position", -20, 20, 0, true, "px", 1)
 

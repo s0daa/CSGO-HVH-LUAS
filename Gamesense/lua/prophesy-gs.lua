@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- downloaded from dsc.gg/southwestcfgs
 
 --coded and developed by prophesy staff team xdxd#1111 & Doners#7909

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --- @region: dependencies
 local json = require "ch_json"
 local base64 = require "ch_base64"

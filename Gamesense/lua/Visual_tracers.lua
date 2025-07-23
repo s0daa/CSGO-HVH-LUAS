@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Menu
 local tracer = ui.new_checkbox("VISUALS", "Effects", "new tracers")
 local color = ui.new_color_picker("VISUALS", "Effects", "Color", 255, 255, 255, 255)

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local log = client.log
 local floor = math.floor
 local table_insert = table.insert

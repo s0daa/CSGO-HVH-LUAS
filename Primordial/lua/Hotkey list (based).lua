@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local g_font_main = render.create_font( 'Verdana', 12, 300, e_font_flags.ANTIALIAS, e_font_flags.DROPSHADOW )
 local g_font_secondary = render.create_font( 'Small Fonts', 8, 150, e_font_flags.ANTIALIAS, e_font_flags.DROPSHADOW )
 

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local esp_names = render.create_font("Verdanab", 12, 200, e_font_flags.ANTIALIAS, e_font_flags.DROPSHADOW)
 local sub_font = render.create_font("Verdanab", 10, 200, e_font_flags.ANTIALIAS, e_font_flags.DROPSHADOW, e_font_flags.GAUSSIANBLUR)
 --menu items//////////////////////////////

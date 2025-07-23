@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local obex_data = obex_fetch and obex_fetch() or {username = "coder", build = "source", discord = "morcao"}
 
 username = obex_data.username

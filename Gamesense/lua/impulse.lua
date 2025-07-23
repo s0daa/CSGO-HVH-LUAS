@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local old_require = require;
 local old_print = print;
 client.log = function(shit)

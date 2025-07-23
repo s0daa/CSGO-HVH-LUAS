@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local spectator_font = render.create_font( "Verdana", 12, 400, e_font_flags.DROPSHADOW )
 
 local local_player = nil

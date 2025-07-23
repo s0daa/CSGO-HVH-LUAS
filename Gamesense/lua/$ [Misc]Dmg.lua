@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ref_mindmg =  ui.reference( "rage" , "aimbot" , "Minimum damage" ) 
 local ovr_checkbox , ovr_hotkey , ovr_value =  ui.reference( "rage" , "aimbot" , "Minimum damage override" ) 
 local dmg_ind = ui.new_checkbox("Rage", "Other", "DMG IND")

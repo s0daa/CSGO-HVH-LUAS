@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local resolver_enabled = ui.new_checkbox("Rage", "Other", "Enable AI Resolver")
 local disable_aa_correction = ui.new_checkbox("Rage", "Other", "Disable Anti-Aim Correction")
 local force_bodyaim_below_health = ui.new_slider("Rage", "Other", "Force Body-Aim Below Health", 0, 100, 88)

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 print("Perfect owned by hujoszek1337")
 client.color_log(175,124,255, "created by hujoszek")
 client.color_log(175,124,255, "hujoszek1337 boss")

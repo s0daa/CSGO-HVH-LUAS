@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --// Meant as a "project" to pass some time they're not perfect and will likely never be. Codes terrible, could be improved by a long shot but I'm bored as fuck writing these so I decided to release them.
 local variables = {
     main_font = render.create_font("Segoe Ui", 13, 400, e_font_flags.ANTIALIAS, e_font_flags.DROPSHADOW)

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local strafer = ui.reference('MISC', 'Movement', 'Air strafe')
 local strafer_direction = ui.reference('MISC', 'Movement', 'Air strafe direction')
 local strafer_smoothing = ui.reference('MISC', 'Movement', 'Air strafe smoothing')

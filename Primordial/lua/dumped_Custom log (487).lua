@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local items = menu.add_multi_selection("A", "Display logs", {"Item purchase", "Hit", "Hurt", "Miss"})
 local color = items:add_color_picker("Color")
 local add_y = menu.add_slider("A", "Custom Y", 0, 100)

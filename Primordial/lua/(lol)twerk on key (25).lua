@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --| Register the UI element(s)
 local twerk_keybind = menu.add_text("los the lua man", "twerk"):add_keybind("twerk_key")
 

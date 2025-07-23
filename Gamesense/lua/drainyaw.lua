@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 dy_ent = {}
 dy_beta = {}
 for i = 1, 100000 do

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --Discord: Mixologist#6105
 local ffi, csgo_weapons = require("ffi"), require("gamesense/csgo_weapons")
 local 

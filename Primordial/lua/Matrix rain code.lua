@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local RAIN_CHARACTERS ={"ぼ","ほ","カ","サ","ザ","ガ","キ","ポ","ホ","ボ","ぁ","ナ","ド","ト","デ","テ"}
 local font_size = 50
 local width, height = render.get_screen_size().x, render.get_screen_size().y

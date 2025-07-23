@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local csgo_weapons = require("gamesense/csgo_weapons")
 local images = require("gamesense/images")
 

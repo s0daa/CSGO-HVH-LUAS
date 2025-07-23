@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function OnPlayerChanged(oldPlayer, newPlayer)
 	-- When switching player, instantly refill health and armor
 	if newPlayer ~= nil then

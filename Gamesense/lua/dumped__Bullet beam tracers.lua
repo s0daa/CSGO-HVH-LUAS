@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = bit.band
 slot1 = bit.bor
 slot2 = client.eye_position

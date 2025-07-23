@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local panorama_api = panorama.open()
 
 -- #region : Libraries

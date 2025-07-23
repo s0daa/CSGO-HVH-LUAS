@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- local variables for API functions. any changes to the line below will be lost on re-generation
 local client_screen_size, entity_get_local_player, entity_get_prop, entity_is_alive, globals_curtime, math_abs, math_floor, renderer_indicator, renderer_rectangle, renderer_text, string_format, ui_get, ui_new_combobox, ui_reference, ui_set_callback = client.screen_size, entity.get_local_player, entity.get_prop, entity.is_alive, globals.curtime, math.abs, math.floor, renderer.indicator, renderer.rectangle, renderer.text, string.format, ui.get, ui.new_combobox, ui.reference, ui.set_callback
 

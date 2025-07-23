@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local md = menu.find("aimbot", "scout", "target overrides", "force min. damage")[2]
 local autostop = menu.find("aimbot", "scout", "accuracy", "autostop options")
 local md2 = menu.find("aimbot", "awp", "target overrides", "force min. damage")[2]

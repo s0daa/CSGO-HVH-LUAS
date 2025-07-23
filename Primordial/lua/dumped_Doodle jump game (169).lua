@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local game = {}
 game.size = vec2_t(200, 400)
 game.pos = vec2_t(render.get_screen_size().x/2 - game.size.x/2, render.get_screen_size().y/2 - game.size.y/2)

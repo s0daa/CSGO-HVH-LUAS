@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local main_font = render.create_font("Arial", 14, 200, e_font_flags.ANTIALIAS, e_font_flags.DROPSHADOW)
 local warning_font = render.create_font("tables", 50, 100, e_font_flags.ANTIALIAS)
 local interval = 0

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ref = ui.create("Infopanel")
     local switch1 = ref:switch("Enable", true)
     local theme_sel = ref:combo("Selection Theme", {"Default","Modern","Wraith"})

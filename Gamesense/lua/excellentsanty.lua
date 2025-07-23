@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ---@region lib
 local ffi = require('ffi')
 local pui = require("gamesense/pui")

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = require("gamesense/http")
 slot1 = require("gamesense/chat")
 slot2 = require("gamesense/localize")

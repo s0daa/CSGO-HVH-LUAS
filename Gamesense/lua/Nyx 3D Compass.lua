@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 require "gamesense/nyx"
 
 local Callbacks = require "gamesense/Nyx/Callbacks"

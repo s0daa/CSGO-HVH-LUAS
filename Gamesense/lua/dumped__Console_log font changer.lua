@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = require("ffi")
 slot1 = client.create_interface("vguimatsurface.dll", "VGUI_Surface031")
 slot2 = vtable_thunk(71, "unsigned int(__thiscall*)(void*)")

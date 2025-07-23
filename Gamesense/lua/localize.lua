@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local js = panorama.loadstring([[
 	return {
 		localize: (str, params) => {

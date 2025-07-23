@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --Menu Add
 AAMenu = menu.add_selection("AntiAim","Main AA select",{"Jitter","Static","Custom","None"})
 

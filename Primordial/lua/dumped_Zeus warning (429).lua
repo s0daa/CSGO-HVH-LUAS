@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- local variables for API functions. any changes to the line below will be lost on re-generation
 local callbacks_add, entity_list_get_entity, math_floor, menu_add_checkbox, menu_add_selection, menu_find, pairs, render_create_font, render_get_screen_size, render_load_image_buffer, render_texture, render_world_to_screen, table_insert = callbacks.add, entity_list.get_entity, math.floor, menu.add_checkbox, menu.add_selection, menu.find, pairs, render.create_font, render.get_screen_size, render.load_image_buffer, render.texture, render.world_to_screen, table.insert
 

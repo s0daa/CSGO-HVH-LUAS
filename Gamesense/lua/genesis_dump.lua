@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- This file was protected using Luraph Obfuscator v14.3 [https://lura.ph/]
 local ffi = require("ffi")
 

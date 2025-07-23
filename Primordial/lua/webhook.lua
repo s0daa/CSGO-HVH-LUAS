@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- adapted from LosAngeles to primordial.dev # evitable#5356
 
 local http_library = require('http')

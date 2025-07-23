@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function warmup_config()
     engine.execute_cmd("sv_cheats 1;Impulse 101;sv_airaccelerate 9999;bot_stop all;mp_roundtime_defuse 60;sv_infinite_ammo 1;mp_limitteams 0;mp_autoteambalance 0;mp_buytime 100000;mp_freezetime 1;mp_ignore_round_win_conditions 1;mp_respawn_on_death_ct 1; mp_respawn_on_death_t 1")
 end

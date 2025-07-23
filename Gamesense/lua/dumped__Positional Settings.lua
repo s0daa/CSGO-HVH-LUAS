@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot1, slot2, slot3, slot4 = nil
 
 if entity.get_local_player() ~= nil then

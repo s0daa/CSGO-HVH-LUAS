@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local set_view_angle = function(angle)
    
     return engine.set_view_angles( angle)

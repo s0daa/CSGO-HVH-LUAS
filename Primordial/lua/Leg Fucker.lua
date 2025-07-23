@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local enable_leg = menu.add_checkbox("fucker", "enable")
 local slidewalk = menu.find("antiaim", "main", "general", "leg slide")
 

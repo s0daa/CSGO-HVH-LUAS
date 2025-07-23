@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local l_world_to_screen_0 = render.world_to_screen;
 local _ = rage.exploit;
 local l_get_binds_0 = ui.get_binds;

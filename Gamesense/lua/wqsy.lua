@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- local variables for API functions. any changes to the line below will be lost on re-generation
 local client_exec, client_set_event_callback, entity_get_local_player, entity_get_player_weapon, ui_get, ui_new_checkbox, ui_new_hotkey, ui_new_slider, pairs, ui_set_callback, ui_set_visible = client.exec, client.set_event_callback, entity.get_local_player, entity.get_player_weapon, ui.get, ui.new_checkbox, ui.new_hotkey, ui.new_slider, pairs, ui.set_callback, ui.set_visible
 

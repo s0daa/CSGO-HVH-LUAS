@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local arial = render.create_font("Arial", 16, 600, e_font_flags.ANTIALIAS, e_font_flags.DROPSHADOW)
 local pixel = render.create_font("Smallest Pixel-7", 10, 50, e_font_flags.OUTLINE)
 

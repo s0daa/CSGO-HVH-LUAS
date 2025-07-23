@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 lib_error = function(library)
     error(string.format("Lavender - failed to retrieve '%s' library. Head over to our discord and subscribe to all the libraries and reload your cheat", library))
 end

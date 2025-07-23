@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --| Create the menu element(s)
 local skin_color = menu.add_selection("los the lua guy", "skin color", {"default", "black", "mixed", "white", "tan"})
 

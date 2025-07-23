@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot1 = require("gamesense/steamworks").ISteamMatchmaking
 slot2 = panorama.open()
 MyPersonaAPI = slot2.MyPersonaAPI

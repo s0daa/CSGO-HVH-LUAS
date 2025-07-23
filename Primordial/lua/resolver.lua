@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local overridekey = ui.new_hotkey("rage", "other",  "Anti-aim resolver override")
 local correctionmode = ui.new_combobox("rage", "other", "Resolver correction", { "Off", "Lowerbody", "Logic", "Resimulation" })
 local correctafterx = ui.new_slider("rage", "other", "Correct after x shots", 1, 4, 2, true)

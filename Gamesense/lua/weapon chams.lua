@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local material_get_model, material_find = materialsystem.get_model_materials, materialsystem.find_material
 local ui_new_checkbox, ui_new_color_picker, ui_new_combobox, ui_new_multiselect, ui_get, ui_set_visible, ui_set_callback = ui.new_checkbox, ui.new_color_picker, ui.new_combobox, ui.new_multiselect, ui.get, ui.set_visible, ui.set_callback 
 local entity_get_local_player, entity_get_prop = entity.get_local_player, entity.get_prop

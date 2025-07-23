@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local pixel = render.create_font("Tahoma", 15, 10, e_font_flags.ANTIALIAS)
 
 --binds

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --affection.source coded by kura#1111
 local ffi = require('ffi')
 local bit = require('bit')

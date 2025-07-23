@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = {
 	_URL = "http://github.com/kikito/inspect.lua",
 	_VERSION = "inspect.lua 3.1.0",

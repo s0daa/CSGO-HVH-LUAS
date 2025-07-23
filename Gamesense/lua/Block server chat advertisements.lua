@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- local variables for API functions. any changes to the line below will be lost on re-generation
 local client_create_interface, client_set_event_callback, ui_get, ui_new_checkbox = client.create_interface, client.set_event_callback, ui.get, ui.new_checkbox
 

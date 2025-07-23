@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = require("gamesense/uix")
 slot1 = client.userid_to_entindex
 slot2 = entity.get_players

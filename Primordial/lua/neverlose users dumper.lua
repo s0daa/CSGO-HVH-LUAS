@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function is_prim_user(ent)
 	if not ent or not ent:is_player() then
 		return false

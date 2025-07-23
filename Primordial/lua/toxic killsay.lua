@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local killsays = {
         "u r so ez ",
 	"get clapped ",

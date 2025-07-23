@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local image_size = Vector2.new(20, 19)
 local url = "http://cdn.onlinewebfonts.com/svg/img_275352.png"
 local bytes = Http.Get(url)

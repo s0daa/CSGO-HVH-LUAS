@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Made By Exodouding for skeet.cc/gamesense.pub
 
 local skin_colors = {

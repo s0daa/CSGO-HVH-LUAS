@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --Boronide™ Obfuscation, v0.7.0 | discord.gg/
 
 local j,x,O=nil,nil,nil([[

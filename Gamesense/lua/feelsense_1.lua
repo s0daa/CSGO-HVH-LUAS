@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ffi = require("ffi")
 local clipboard = require("gamesense/clipboard") or error("Install Clipboard library!")
 local base64 = require("gamesense/base64")

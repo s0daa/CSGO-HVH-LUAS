@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local menugroup = menu.set_group_column("Menu", 1) 
 local tptoggle = menu.add_checkbox("Menu", "Thirdperson Fix", false)
 local tpslider = menu.add_slider("Menu", "Thirdperson Distance", 20, 200, 1, 0)

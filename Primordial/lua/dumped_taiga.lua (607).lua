@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local easing = require("primordial/easing library.95")
 
 -- Anti Aim

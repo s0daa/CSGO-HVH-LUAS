@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local panorama = require("primordial/panorama-library.248")
 
 local js = panorama.loadstring([[

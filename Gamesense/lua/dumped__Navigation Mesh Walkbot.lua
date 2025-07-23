@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = client.get_cvar
 slot1 = client.camera_position
 slot2 = client.create_interface

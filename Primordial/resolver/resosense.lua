@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 
 local text1 = menu.add_text("Info", "Welcome Back, legend\n")
 local text2 = menu.add_text("Info","Stay With US - Resosense")

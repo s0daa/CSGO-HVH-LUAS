@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local pui = require("gamesense/pui") or error("Subscribe to PUI Library | https://gamesense.pub/forums/viewtopic.php?id=41761")
 local ffi = require("ffi")
 local vector = require("vector");

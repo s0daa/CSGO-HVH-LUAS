@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local kill_say = {}
 local ui = {}
 kill_say.phrases = {}

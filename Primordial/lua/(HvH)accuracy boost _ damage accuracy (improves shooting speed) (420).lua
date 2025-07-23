@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local g_master_switch = menu.add_checkbox( 'main', 'accuracy boost', false )
 local g_accuracy_boost_amount = menu.add_slider('main', 'accuracy boost amount', 0, 100, 1, 0, "%")
 local g_per_hitbox = menu.add_checkbox( 'main', 'accuracy boost per specific hitbox', false )

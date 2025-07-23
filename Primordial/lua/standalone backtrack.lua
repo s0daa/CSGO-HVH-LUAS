@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --[[
       backtrack.lua made by punch#7017
     - idea behind this is to store the enemies eye position and simulation time of past records and check which is closer to the crosshair

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local hboxes = {} -- in lua api
 hboxes["head"]            = 0
 hboxes["neck"]            = 1

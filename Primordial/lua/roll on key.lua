@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --| Create the menu element(s)
 local should_roll = menu.add_text("los the lua guy", "roll on key"):add_keybind("roll on key")
 local roll_amount = menu.add_slider("los the lua guy", "roll amount", -60, 60)

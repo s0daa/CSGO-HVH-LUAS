@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local phrases = {
 	kill = ' ENEMY ELIMINATED',		
 	kill_plural = ' ENEMIES ELIMINATED',

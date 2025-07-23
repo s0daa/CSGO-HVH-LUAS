@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local js = require "panorama"
 local customplayers = {
 	{"Local T Agent", "models/player/custom_player/legacy/tm_phoenix.mdl", false},

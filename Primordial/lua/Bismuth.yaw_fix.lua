@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local fake_limit = menu.add_slider("gamesheesh beta", "fake limit", 1, 60)
 local jitter_offset = menu.add_slider("gamesheesh beta", "jitter offset", 0, 90)
 local l_yaw_add = menu.add_slider("gamesheesh beta", "left yaw add", -50, 50)

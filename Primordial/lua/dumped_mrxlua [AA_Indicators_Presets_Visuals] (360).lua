@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ground_tick, end_time = 1, 0
     local version = "0.0.1"
     local hitlogsList = {}

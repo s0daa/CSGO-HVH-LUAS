@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
  
 ffi.cdef[[
     typedef int(__fastcall* clantag_t)(const char*, const char*);

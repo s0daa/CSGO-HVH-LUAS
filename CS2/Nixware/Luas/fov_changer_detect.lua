@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ---@diagnostic disable: lowercase-global, unbalanced-assignments, deprecated, need-check-nil, undefined-global, undefined-field
 ---@description: sentinel cs2 ◣_◢
 

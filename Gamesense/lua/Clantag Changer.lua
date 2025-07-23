@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ﻿local function var_0_0(arg_1_0)
 	local var_1_0 = {}
 

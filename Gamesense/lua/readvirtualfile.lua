@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local g_pMemAlloc           = ffi.cast("void***", utils.find_pattern("tier0.dll", "8B 0D ? ? ? ? 8B 11 8D") + 2)
 local Free                  = ffi.cast(ffi.typeof("void(__thiscall*)(void*, void*)"), g_pMemAlloc[0][5])
 local UTIL_LoadFileForMe    = ffi.cast("uint8_t*(__thiscall*)(const char*)", utils.find_pattern("client.dll", "55 8B EC 83 EC 08 56 57 8B F9 8B 0D ? ? ? ? 83"))

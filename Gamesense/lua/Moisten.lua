@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 	if not pcall(client.create_interface) then
 	error("[MOISTEN.WIN]: error: please make sure Allow unsafe scripts is enabled and try again")
 	return

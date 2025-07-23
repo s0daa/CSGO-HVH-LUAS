@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local chams_color = menu.find("visuals", "esp", "models", "history", 0)
 
 local pulsate_master = menu.add_checkbox("backtrack chams", "[enable] pulsating backtrack chams", false)

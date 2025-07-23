@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 
 local Get = menu.find
 local AddCheckbox = menu.add_checkbox

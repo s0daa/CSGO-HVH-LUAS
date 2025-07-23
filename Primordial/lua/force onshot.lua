@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local enable = menu.add_checkbox('force onshot', 'force onshot | key: ')
 local key = enable:add_keybind('key')
 local enable_flag = menu.add_checkbox('force onshot', 'show esp flag')

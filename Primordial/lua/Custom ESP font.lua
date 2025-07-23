@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --menu
 select1 = menu.add_selection("Font","Style", {"Off", "Arial", "Impact", "Calibri", "Smallest Pixel", "Verdana"})
 size1 = menu.add_slider("Font", "Size", 10, 50)

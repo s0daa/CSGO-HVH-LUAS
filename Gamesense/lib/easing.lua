@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ﻿local var_0_0 = math.pow
 local var_0_1 = math.sin
 local var_0_2 = math.cos

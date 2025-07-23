@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function is_local_player(entindex)
     return entindex == entity.get_local_player()
 end

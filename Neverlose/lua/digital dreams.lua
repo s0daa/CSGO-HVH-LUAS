@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local l_color_0 = color;
 local l_vector_0 = vector;
 local l_error_0 = error;

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local hpbar = {
     customhealthbars = ui.new_checkbox("Visuals", "Player ESP", "Custom Health bar"),
     gradient = ui.new_checkbox("Visuals", "Player ESP", "Enable Gradient"),

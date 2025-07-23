@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --[[
 	code generated using luamin.js, Herrtt#3868
 --]]

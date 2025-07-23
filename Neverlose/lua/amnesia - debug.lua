@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 _DEBUG = true
 local gradient = require("neverlose/gradient")
 local base64 = require("neverlose/base64")

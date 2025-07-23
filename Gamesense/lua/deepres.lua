@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Anti-Aim Resolver for GameSense
 -- With the help of AI
 -- Author: [BreakClover]

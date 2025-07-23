@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ---- lol deobfuscated by stylez#0798 (i know that this is paste lua)
 
 local fake_limit = menu.add_slider("Tank preset", "fake limit", 1, 60)

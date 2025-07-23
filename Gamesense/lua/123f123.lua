@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 exswitch = var_155_4.feature({
 	var_155_5.angles:checkbox("Auto hide shots")
 }, function(arg_164_0)

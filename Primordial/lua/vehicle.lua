@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function OnVehicleChanged(oldVehicle, newVehicle)
 	if newVehicle ~= nil then
 		if newVehicle:get_model_hash() == 0x586765fb then

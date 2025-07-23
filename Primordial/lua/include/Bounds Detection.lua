@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local counter_clockwise = function(point_1, point_2, point_3)
     return ((point_3.y - point_1.y) * (point_2.x - point_1.x)) > ((point_2.y - point_1.y) * (point_3.x - point_1.x))
 end

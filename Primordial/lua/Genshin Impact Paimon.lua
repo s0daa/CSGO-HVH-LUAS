@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local frames = 0
 local animTime = global_vars.real_time()
 local hitboxes = {

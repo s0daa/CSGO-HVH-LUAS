@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local var = cvars.sv_cheats
 local noshadows1 = cvars.r_shadows
 local noshadows2 = cvars.cl_csm_static_prop_shadows

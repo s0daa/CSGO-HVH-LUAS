@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ref = {
     aimbot = ui.reference('RAGE', 'Aimbot', 'Enabled'),
     doubletap = {

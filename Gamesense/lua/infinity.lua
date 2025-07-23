@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- @region LUASETTINGS start
 local lua_name = "infinity"
 local lua_color = {r = 211, g = 183, b = 211}

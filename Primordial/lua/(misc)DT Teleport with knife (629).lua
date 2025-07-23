@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- ported this form my lua inferno lua cuz why not :)
 
 local c_func = {}

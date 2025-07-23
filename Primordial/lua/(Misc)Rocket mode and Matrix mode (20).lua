@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local rocket_enabled = menu.add_checkbox("ragdolls", "rocket mode", true)
 local timescale_slider = menu.add_slider("ragdolls", "timescale", 0.1, 2, 0.1, 0.01)
 timescale_slider:set(cvars.cl_phys_timescale:get_float())

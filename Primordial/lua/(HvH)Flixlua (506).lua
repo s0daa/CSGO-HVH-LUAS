@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local flixwatermark_checkbox = menu.add_checkbox("Watermark", "Flixlua");
 local function on_draw_watermark(watermark_text)
 if flixwatermark_checkbox:get() then

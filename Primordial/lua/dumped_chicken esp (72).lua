@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local sub_font = render.create_font("Verdanab", 14, 200, e_font_flags.ANTIALIAS, e_font_flags.DROPSHADOW, e_font_flags.GAUSSIANBLUR)
 --checkmbox
 local whatthefuck = menu.add_text("Chicken Esp", "enable")

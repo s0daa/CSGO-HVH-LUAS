@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local checkbox = menu.add_checkbox("Autopeek", "Enable")
 local colly = checkbox:add_color_picker("Autopeek color")
 

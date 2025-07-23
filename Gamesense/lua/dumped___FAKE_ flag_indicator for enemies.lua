@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot1 = entity.is_enemy
 slot2 = plist.get
 

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local jx = render.load_image("primordial\\scripts\\john_xina\\johnxina.jpg")
 local shotted = false
 local function on_paint()

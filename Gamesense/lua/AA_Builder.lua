@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local LICENSE = "MIT"
 local VERSION = "2023-07-26"
 local AUTOUPDATER = false -- Still no autoupdater sorry

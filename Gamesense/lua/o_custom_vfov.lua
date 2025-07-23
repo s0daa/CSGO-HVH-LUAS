@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local override_fov, override_zoom_fov = 
     ui.reference('MISC', 'Miscellaneous', 'Override FOV'), 
     ui.reference('MISC', 'Miscellaneous', 'Override zoom FOV')

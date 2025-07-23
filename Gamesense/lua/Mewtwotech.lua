@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local reached = false
 local scripts = {}
 --local automatic = database.read("automatic") or {}

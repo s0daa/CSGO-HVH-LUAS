@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local k = require('clipboard')
 local j = { anim_list = {} }
 j.math_clamp = function(k, j, s) return math.min(s, math.max(j, k)) end

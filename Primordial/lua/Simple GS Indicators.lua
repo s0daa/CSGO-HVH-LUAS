@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local calibri = render.create_font("Calibri", 23, 700, e_font_flags.ANTIALIAS)
 local main_font = render.create_font("Calibri", 12, 400)
 local screen_size = render.get_screen_size()

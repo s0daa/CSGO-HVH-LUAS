@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 
 -- Improved version of UnsafeChargeInAir-gs.lua
 -- Debugging logs removed as per request

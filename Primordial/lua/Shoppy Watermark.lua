@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local checkbox = menu.add_checkbox("Main Switch", "enable")
 local checkbox_color = checkbox:add_color_picker("text1 color")
 local checkbox_color2 = checkbox:add_color_picker("text2 color")

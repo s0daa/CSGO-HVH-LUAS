@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --Made By Astral#1001
 
 local pixel = render.create_font("Arial", 12, 0, e_font_flags.OUTLINE)

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- бля я хочу пиццы и aegis ставь + если у тебя есть aegis пон
 -- бля я хочу пиццы и aegis ставь + если у тебя есть aegis пон
 -- бля я хочу пиццы и aegis ставь + если у тебя есть aegis пон

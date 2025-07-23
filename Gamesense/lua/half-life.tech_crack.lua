@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local old_req = require;
 local oldhttp = require 'gamesense/http';
 local js = panorama.open();

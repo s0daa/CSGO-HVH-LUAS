@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ui_get, ui_set = ui.get, ui.set
 local entity_get_local_player = entity.get_local_player
 local entity_get_player_weapon = entity.get_player_weapon

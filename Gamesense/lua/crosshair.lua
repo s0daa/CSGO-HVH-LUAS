@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local client_screen_size, client_set_event_callback, entity_get_local_player, globals_realtime, math_atan, math_cos, math_floor, math_sin, renderer_line, table_insert, ui_get, ui_new_checkbox, ui_new_color_picker, ui_new_slider = client.screen_size, client.set_event_callback, entity.get_local_player, globals.realtime, math.atan, math.cos, math.floor, math.sin, renderer.line, table.insert, ui.get, ui.new_checkbox, ui.new_color_picker, ui.new_slider
 
 local vector = require 'vector'

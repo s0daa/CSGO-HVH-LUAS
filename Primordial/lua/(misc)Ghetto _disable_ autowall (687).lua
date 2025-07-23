@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local autofire = menu.find("aimbot","general","aimbot", "autofire")
 local awall = menu.add_checkbox("Ghetto-Awall", "A-WAll", false)
 local awallbind = awall:add_keybind("A-Wall keybind")

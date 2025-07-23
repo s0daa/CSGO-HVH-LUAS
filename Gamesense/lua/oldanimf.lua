@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 require 'bit'
 local enable = ui.new_checkbox("LUA", "A", "Old anim fix")
 local enable2 = ui.new_checkbox("LUA", "A", "pitch 0 on land")

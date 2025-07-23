@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local forcesendnextpacket = false
 local function on_aimbot_shoot(shot)
     forcesendnextpacket = true

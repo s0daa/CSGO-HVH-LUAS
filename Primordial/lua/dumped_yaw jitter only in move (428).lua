@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local gnoyniy_jitter = menu.find("antiaim", "main", "angles", "jitter mode")
 local slowwalk = menu.find("misc", "main", "movement", "slow walk")[2]
 

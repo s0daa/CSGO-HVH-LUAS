@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local jittera = menu.find("antiaim","main","angles", "jitter add")
 local youngflexa = menu.find("antiaim","main","angles","yaw add")
 

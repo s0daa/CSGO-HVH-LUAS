@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ---@diagnostic disable: undefined-global
 local ffi = require 'ffi'
 local crr_t = ffi.typeof('void*(__thiscall*)(void*)')

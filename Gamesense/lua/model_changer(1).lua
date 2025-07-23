@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local t_player_models = {
     -- All Terrorists should be added here! Note that the directories must match!
     ["gamesense"] = "models/player/custom_player/frnchise9812/gamesensee.mdl",

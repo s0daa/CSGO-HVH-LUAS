@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --thx ducarii, was gonna write this anyways, but you already made the color script <3
 
 local local_glow_color = menu.find("visuals", "esp", "models","glow#local")[2]

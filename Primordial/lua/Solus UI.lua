@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local menu_text, menu_select, menu_slider, checkbox, button = menu.add_text, menu.add_selection, menu.add_slider, menu.add_checkbox, menu.add_button
 
 local chernobyl_ui = {}

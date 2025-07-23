@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --- const
 local OBEX = obex_fetch and obex_fetch() or {
     discord = "unknown",

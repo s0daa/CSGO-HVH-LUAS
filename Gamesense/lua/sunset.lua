@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local Settings = {
     MasterSwitch = ui.new_checkbox("Visuals", "Effects", "Cascade lighting override"),
     Enable = ui.new_checkbox("Visuals", "Effects", "    Enable"),

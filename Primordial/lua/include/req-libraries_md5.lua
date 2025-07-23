@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local md5 = {}
 local char, byte, format, rep, sub = string.char, string.byte, string.format, string.rep, string.sub
 local bit_or, bit_and, bit_not, bit_xor, bit_rshift, bit_lshift

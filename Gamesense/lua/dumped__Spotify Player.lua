@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = require("gamesense/surface") or error("gamesense/surface library is required")
 slot1 = require("gamesense/http") or error("gamesense/http library is required")
 slot2 = require("gamesense/images") or error("gamesense/images library is required")

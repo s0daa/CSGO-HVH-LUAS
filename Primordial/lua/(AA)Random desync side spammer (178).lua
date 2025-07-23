@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- desync side spam
 local fake_spam = menu.add_checkbox("spammer", "random desync side spammer")
 fake_spam:set_visible(true)

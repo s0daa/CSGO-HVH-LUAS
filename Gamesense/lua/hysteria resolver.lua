@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- #region - Dependencies and localization
 local defer, error, getfenv, setfenv, getmetatable, setmetatable,
 ipairs, pairs, next, printf, rawequal, rawset, rawlen, readfile, writefile, require, select,

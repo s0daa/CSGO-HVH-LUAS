@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Waypoint
 -- best nonprime cfg - https://fatality.win/resources/2355/
 local waypoints = {}

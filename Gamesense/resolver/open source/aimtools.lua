@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- aimtools
 ---@diagnostic disable: undefined-global
 local ffi = require 'ffi'

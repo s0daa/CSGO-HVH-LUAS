@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local l_world_to_screen_0 = render.world_to_screen;
 local l_weapon_fire_0 = events.weapon_fire;
 local l_sqrt_0 = math.sqrt;

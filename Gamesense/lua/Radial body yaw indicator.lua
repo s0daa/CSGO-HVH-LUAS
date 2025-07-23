@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ﻿local var_0_0 = require("vector")
 local var_0_1 = require("gamesense/antiaim_funcs")
 local var_0_2 = {

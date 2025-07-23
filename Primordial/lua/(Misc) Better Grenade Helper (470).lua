@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ---powered by chernobyl.lua team [ Matthew Derose#1337 x DarkLuny#7293 x Hellfish#9343 ]
 local lua_elements = {}
 lua_elements.text = menu.add_text("Grenade Helper", "Bind Key")

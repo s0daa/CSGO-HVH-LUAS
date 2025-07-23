@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local fake_duck = menu.find( "antiaim", "main", "general", "fake duck" )
 local fake_duck_hitchance = menu.add_slider( "fake duck hitchance", "hitchance", 0, 100 )
 

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 menu.add_text("About this script", "This script allows you to crash local servers")
 menu.add_text("About this script", "even if you are not the server host")
 menu.add_text("About this script", "BUT need sv_cheats 1 on the server.")

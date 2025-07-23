@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 _DEBUG = true
 local clipboard = require("neverlose/clipboard")
 local vmt_hook = require("neverlose/vmt_hook")

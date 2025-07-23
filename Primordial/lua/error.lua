@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- This file was generated using Luraph Obfuscator v13.5.4
 -- lua was created by chewz#0001
 

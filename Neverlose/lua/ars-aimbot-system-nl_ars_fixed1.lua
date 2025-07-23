@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- fixed by l0ny#8533
 
 _DEBUG = true

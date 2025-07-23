@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ﻿-- Создание UI элементов (Чекбоксы)
 local enable_aimbot = ui.new_checkbox("MISC", "Miscellaneous", "Enable Aimbot")
 local enable_hit_chance = ui.new_checkbox("MISC", "Miscellaneous", "Enable HitChance")

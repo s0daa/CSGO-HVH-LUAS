@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local client_key_state, client_set_event_callback, database_read, database_write, entity_get_all, entity_get_bounding_box, entity_get_classname, entity_get_local_player, entity_get_player_name, entity_get_player_weapon, entity_get_players, entity_get_prop, globals_maxplayers, math_min, renderer_rectangle, renderer_text, string_gsub, string_len, string_sub, table_insert, ui_get, ui_is_menu_open, ui_mouse_position, ui_new_checkbox, ui_new_color_picker, ui_reference, ui_set_callback, ui_set_visible, unpack = client.key_state, client.set_event_callback, database.read, database.write, entity.get_all, entity.get_bounding_box, entity.get_classname, entity.get_local_player, entity.get_player_name, entity.get_player_weapon, entity.get_players, entity.get_prop, globals.maxplayers, math.min, renderer.rectangle, renderer.text, string.gsub, string.len, string.sub, table.insert, ui.get, ui.is_menu_open, ui.mouse_position, ui.new_checkbox, ui.new_color_picker, ui.reference, ui.set_callback, ui.set_visible, unpack
 
 local uix = require 'gamesense/uix'

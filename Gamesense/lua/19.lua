@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local t_player_models = {
     ["santagirl"] = "models/player/custom_player/kuristaja/cso2/natalie_santagirl/natalie.mdl", 
     ["superman"] = "models/player/custom_player/legacy/saitama/saitama.mdl",

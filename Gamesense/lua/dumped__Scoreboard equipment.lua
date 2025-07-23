@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = require("gamesense/csgo_weapons")
 slot1 = require("table.clear")
 slot2 = setmetatable({}, {

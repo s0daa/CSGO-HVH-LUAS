@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --| Create the remover checkbox
 local sleeve_remover = menu.add_checkbox("Main", "Sleeve remover")
 

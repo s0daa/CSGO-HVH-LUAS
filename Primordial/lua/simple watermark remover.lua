@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local watermark = menu.add_checkbox("Hide Watermark", "enabled")
 
 

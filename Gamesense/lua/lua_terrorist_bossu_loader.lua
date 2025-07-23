@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- filename: 
 -- version: lua51
 -- line: [0, 0] id: 0

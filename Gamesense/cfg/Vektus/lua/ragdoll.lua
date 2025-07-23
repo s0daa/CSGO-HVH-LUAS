@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local get, set_prop, get_prop, cb, slider, get_all, add_event, get_lp, is_alive = ui.get, entity.set_prop, entity.get_prop, ui.new_checkbox, ui.new_slider, entity.get_all, client.set_event_callback, entity.get_local_player, entity.is_alive
 local m_enable = cb("misc", "miscellaneous", "Ragdoll launcher")
 local m_mult = slider("misc", "miscellaneous", "\n ragdoll_launcher_multiplier", 0, 250, 0)

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function on_draw_watermark(watermark_text)
     return "Your custom watermark <3 here"
 end

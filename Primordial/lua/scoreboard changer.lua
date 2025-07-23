@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local gui = {}
 
 gui.kills = menu.add_text_input("scoreboard changer", "kills")

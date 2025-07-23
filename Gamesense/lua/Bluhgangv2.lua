@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- @region LUASETTINGS start
 local lua_name = "bluhgang"
 local lua_color = {r = 190, g = 190, b = 255}

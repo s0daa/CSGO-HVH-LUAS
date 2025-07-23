@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local jitter_add = menu.find("antiaim", "main", "angles", "jitter add"    )
 local Yaw_base            = menu.find("antiaim", "main", "angles", "yaw add"        )
 local desync_side         = menu.find("antiaim", "main", "desync", "side"           ) 

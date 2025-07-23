@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --[[ \Modules needed/ ]]
 local AESI_SIGNATURE = '[AESI - PROJECT]'
 local ffi = require('ffi') or error(('%s Allow unsafe scripts'):format(AESI_SIGNATURE))

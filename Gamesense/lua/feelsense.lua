@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- if not _G.cycek.zalupa then error("Redownload loader")end;if _NAME~=nil then error("Redownload loader")end;function celestia_data()local a={username=_G.cycek and get_username(),build=_G.cycek and get_build()}return a end;
 local celestia = celestia_data and celestia_data() or {
     username = "admin",

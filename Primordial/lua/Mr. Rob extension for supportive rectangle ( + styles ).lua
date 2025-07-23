@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local menu_elems = {
     master_switch = menu.add_checkbox('advanced mr. rob', 'master switch'),
     style = menu.add_selection('advanced mr. rob', 'what style we picking today sir', {'default', 'elegant', 'neymar'}),

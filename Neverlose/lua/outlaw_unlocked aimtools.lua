@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local v0 = 2;
 local v1 = common.get_username();
 local v2 = v1 == "put your name here" or v1 == "keqx";

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- downloaded from dsc.gg/southwestcfgs
 
 local aimbotlog_enable = ui.new_checkbox("Rage", "Other", "Advanced aimbot logging")

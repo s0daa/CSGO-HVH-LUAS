@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- all credits to sapphyrus
 local string_len, tostring, ffi_string = string.len, tostring, ffi.string
 

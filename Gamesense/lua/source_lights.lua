@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = require("ffi")
 slot1 = slot0.cast
 slot2 = slot0.new

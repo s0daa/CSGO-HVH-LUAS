@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --region gs_api
 --region client
 local client_latency, client_log, client_userid_to_entindex, client_set_event_callback, client_screen_size, client_eye_position, client_color_log, client_delay_call, client_visible, client_exec, client_trace_line, client_draw_hitboxes, client_camera_angles, client_draw_debug_text, client_random_int, client_random_float, client_trace_bullet, client_scale_damage, client_timestamp, client_set_clan_tag, client_system_time, client_reload_active_scripts, client_update_player_list = client.latency, client.log, client.userid_to_entindex, client.set_event_callback, client.screen_size, client.eye_position, client.color_log, client.delay_call, client.visible, client.exec, client.trace_line, client.draw_hitboxes, client.camera_angles, client.draw_debug_text, client.random_int, client.random_float, client.trace_bullet, client.scale_damage, client.timestamp, client.set_clan_tag, client.system_time, client.reload_active_scripts, client.update_player_list

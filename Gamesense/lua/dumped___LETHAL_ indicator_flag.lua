@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot1 = client.trace_bullet
 slot2 = entity.get_local_player
 slot3 = entity.get_prop

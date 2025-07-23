@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ------Welcome message-----
 
 local text1 = menu.add_text("Welcome", "Thanks for using my lua!")

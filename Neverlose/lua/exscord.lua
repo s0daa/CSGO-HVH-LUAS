@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local v0 = nil;
 local v1 = nil;
 local v2 = nil;

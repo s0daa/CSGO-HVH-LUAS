@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = client.delay_call
 slot1 = client.set_event_callback
 slot2 = client.userid_to_entindex

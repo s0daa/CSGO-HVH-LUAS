@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 _DEBUG = not _IS_MARKET;
 local v0 = common.get_username();
 local v1 = false;

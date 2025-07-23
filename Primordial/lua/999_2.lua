@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --stylez#0798, Саян обновил вам показ ваших биндов. | Саян updated bindlist for you.
 
 local Solus = {

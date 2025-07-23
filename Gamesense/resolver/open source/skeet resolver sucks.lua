@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local url = "https://discord.gg/CAr3AEHHGZ"
 
 -- Adiciona a checkbox "Enable resolver" acima do botão "Credits for the Resolver"

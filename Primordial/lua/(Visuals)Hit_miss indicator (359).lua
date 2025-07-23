@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local font = render.create_font('DejaVu Sans Bold', 20, 200, e_font_flags.ANTIALIAS)
 local data = { 
     pos = vec2_t(50, 500),

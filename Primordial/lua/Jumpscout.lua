@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 function ent_speed_2d(entity)
     local velocity_x = entity:get_prop("m_vecVelocity[0]")
     local velocity_y = entity:get_prop("m_vecVelocity[1]")

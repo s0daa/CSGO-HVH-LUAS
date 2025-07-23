@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --By remine
 local dt_ref = menu.find("aimbot", "general", "exploits", "doubletap", "enable")
 local key_pressed = input.is_key_pressed(e_keys.MOUSE_LEFT)

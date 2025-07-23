@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local killsay1		= gui.checkbox("misc.chunxi.killsay", "scripts.elements_b", "Killsay")
 local phrases =  "我将以【AW】形态入侵HVH并出击你~!"
  

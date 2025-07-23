@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local pixel = render.create_font("Smallest Pixel-7", 10, 20, e_font_flags.OUTLINE)
 local multi_selection = menu.add_multi_selection("antiaim", "leg animation fix", {"reverse", "static"})
 local find_slow_walk_name, find_slow_walk_key = unpack(menu.find("misc","main","movement","slow walk"))

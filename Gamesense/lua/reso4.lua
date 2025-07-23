@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ffi = require("ffi")
 local vector = require("vector")
 function Clamp(value, min, max) return math.min(math.max(value, min), max) end

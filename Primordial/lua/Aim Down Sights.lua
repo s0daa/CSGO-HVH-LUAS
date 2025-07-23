@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local checkboxads = menu.add_checkbox("Aim Down Sight", "Enable")
 local keybindads = checkboxads:add_keybind("ADS Bind")
 

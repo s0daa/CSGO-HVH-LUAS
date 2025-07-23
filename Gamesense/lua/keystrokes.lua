@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local kw, ka, ks, kd, space, crouch, m1, m2 = 0x57, 0x41, 0x53, 0x44, 0x20, 0x11, 0x01, 0x02
 local w, h = client.screen_size()
 local visible = ui.set_visible

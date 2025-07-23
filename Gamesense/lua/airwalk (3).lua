@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- @requirments
 -- @credit me bro
 local ent = require "gamesense/entity";

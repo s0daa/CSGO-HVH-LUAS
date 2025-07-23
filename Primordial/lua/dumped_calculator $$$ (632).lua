@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local input1 = menu.add_text_input("calculator", "First number")
 local input2 = menu.add_text_input("calculator", "Operator")
 local inputnegative = menu.add_text_input("calculator", "Operator negative")

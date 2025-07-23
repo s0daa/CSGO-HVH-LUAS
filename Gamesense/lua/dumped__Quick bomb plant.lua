@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = ui.new_checkbox("MISC", "Miscellaneous", "Auto plant")
 slot1 = ui.new_hotkey("MISC", "Miscellaneous", "Auto plant hotkey", true)
 slot2 = nil

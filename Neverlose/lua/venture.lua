@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local v0 = nil;
 v0 = {
     enableaanl = ui.find("Aimbot", "Anti Aim", "Angles", "Enabled"), 

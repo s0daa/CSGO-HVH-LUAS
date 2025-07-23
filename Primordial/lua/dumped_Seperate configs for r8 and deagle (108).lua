@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local weapon       = menu.add_selection("fumo targetting", "Weapon", {"deagle", "revolver"});
 local hc_d         = menu.add_slider("fumo targetting", "hitchance", 0, 100);
 local hc_r         = menu.add_slider("fumo targetting", "hitchance ", 0, 100);

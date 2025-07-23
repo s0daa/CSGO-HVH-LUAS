@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ui_fps_mode = ui.new_combobox("Visuals", "Effects", "FPS+ Mode", {"Off", "Optimal", "Extreme", "Devil"})
 
 local first_boost = true

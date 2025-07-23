@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Init Global -- https://nixware.cc/threads/2326/
 local MaxSpeed = 300
 local font = render.setup_font("C:/windows/fonts/arial.ttf", 30, 1024)

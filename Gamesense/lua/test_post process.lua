@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ui_processig = ui.reference('VISUALS', 'Effects', 'Disable post processing')
 
 local list = { 'Global', 'Vignette', 'Bloom', 'Shadows', 'Blood' }

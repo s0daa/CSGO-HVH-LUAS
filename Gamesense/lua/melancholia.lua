@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local v0=gui.add_combo("Menu Selection","lua>tab b",{"Home","Ragebot Addons","AA Addons","Widgets","Others"});
 local v1=gui.add_checkbox("Main colors","lua>tab b");
 local v2=gui.add_colorpicker("lua>tab b>main colors",true);

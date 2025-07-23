@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = require("ffi")
 slot1 = -1
 slot2 = vtable_bind("engine.dll", "VEngineClientStringTable001", 3, "void*(__thiscall*)(void*, const char*)")

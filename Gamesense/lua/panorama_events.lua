@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local _UnhandledEvents = panorama.loadstring([[
     let RegisteredEvents = {};
     let EventQueue = [];

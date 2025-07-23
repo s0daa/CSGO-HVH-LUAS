@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = require("ffi")
 slot1 = client.find_signature("gameoverlayrenderer.dll", "\\xff\\xe1") or error("invalid signature #1", 2)
 slot5 = slot0.cast("void***", slot0.cast("char*", client.find_signature("gameoverlayrenderer.dll", "\\xff\\xcc\\xcc\\xcc\\xccP\\x8bU") or error("invalid signature #2", 2)) + 2)[0][0]

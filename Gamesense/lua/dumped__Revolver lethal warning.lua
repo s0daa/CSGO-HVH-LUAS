@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = bit.band
 slot1 = client.set_event_callback
 slot2 = entity.get_bounding_box

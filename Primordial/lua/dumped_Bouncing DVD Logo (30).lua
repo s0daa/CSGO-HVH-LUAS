@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ref_enable = menu.add_checkbox("DVD Settings", "Enable")
 local ref_color = ref_enable:add_color_picker("Color")
 

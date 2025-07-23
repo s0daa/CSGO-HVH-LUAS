@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Holds our libraries and their associated gamesense link.
 local libraries = {
     [ "entity" ] = "https://gamesense.pub/forums/viewtopic.php?id=27529",

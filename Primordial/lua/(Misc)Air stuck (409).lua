@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ref_air_stuck = menu.add_checkbox("RageBot","Air stuck", false)
 ref_air_stuck_key = ref_air_stuck:add_keybind("airstuck key")
 

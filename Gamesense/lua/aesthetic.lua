@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local r0_0 = require("ffi")
 local r1_0 = require("gamesense/base64")
 local r2_0 = require("gamesense/pui")

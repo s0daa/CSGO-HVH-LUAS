@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- made by stars#3787
 
 local crosshair_style      = menu.add_selection("Crosshair builder", "Crosshair style", {"default", "default static", "dynamic when move/shoot", "full static", "semi static"}) -- style

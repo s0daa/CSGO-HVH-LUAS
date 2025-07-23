@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 client.color_log(175,124,255, "[hakkai crack system] bye bye rebellion, shelzy, don't think that you're smarter than me, I always will be ahead.")
 client.color_log(175,124,255, "[hakkai crack system] bye bye rebellion, shelzy, don't think that you're smarter than me, I always will be ahead.")
 client.color_log(175,124,255, "[hakkai crack system] bye bye rebellion, shelzy, don't think that you're smarter than me, I always will be ahead.")

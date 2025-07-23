@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local enable = ui.new_checkbox("VISUALS", "Other ESP", "Show hit/miss ratio indicator")
 
 local stats = {

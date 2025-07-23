@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local conditions_names = { "Slow Walk", "Air", "Duck", "Stand", "Move" }
 
 local references = {

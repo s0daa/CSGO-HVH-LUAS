@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 print("-> Initializing Insulta_Satanii_v2...")
 print("-> ...")
 print("-> ..")

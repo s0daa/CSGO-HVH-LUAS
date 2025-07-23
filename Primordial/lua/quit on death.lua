@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 function on_paint()
     local lp = entity_list.get_local_player() 
     if lp == nil then return end

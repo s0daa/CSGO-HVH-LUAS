@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 function on_draw_model(ctx)
     if ctx.model_name:find("v_sleeve") == nil then 
        return

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local _, l_result_0 = pcall(require, "neverlose/beams");
 local l_information_0 = require("neverlose/bomb_information");
 local l_manager_0 = require("neverlose/file_manager");

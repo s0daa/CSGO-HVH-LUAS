@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --Pasted by Remine Thank Reload for Source code
 --https://primordial.dev/resources/meta-mod-like-watermark.75
 

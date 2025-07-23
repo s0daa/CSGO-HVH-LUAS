@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local main_alpha = menu.add_slider("Buy list", "Alpha", 0, 100, 1, 0, "%")
 
 local slider_x = menu.add_slider("Buy list", "x", 0, render.get_screen_size().x, 1, 0, "")

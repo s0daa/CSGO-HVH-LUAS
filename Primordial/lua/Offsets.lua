@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local entity_list = memory.create_interface( "client.dll", "VClientEntityList003" )
 local engine_client = memory.create_interface( "engine.dll", "VEngineClient014" )
 

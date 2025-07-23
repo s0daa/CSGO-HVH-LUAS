@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local v0 = false;
 local l_events_0 = require("neverlose/events");
 local v2 = common.get_username();

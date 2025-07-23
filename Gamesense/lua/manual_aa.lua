@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ﻿local anti_aim = require 'gamesense/antiaim_funcs'
 local body_yaw = { ui.reference('AA', 'Anti-aimbot angles', 'Body yaw') }
 

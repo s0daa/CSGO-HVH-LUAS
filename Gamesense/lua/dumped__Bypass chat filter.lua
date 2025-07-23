@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot1 = require("gamesense/steamworks")
 slot2 = require("ffi").typeof("char[?]")
 slot4 = vtable_thunk(32, "int(__thiscall*)(void*, char*, uint32_t, const char*, bool)")

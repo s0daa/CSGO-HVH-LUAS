@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ui_get = ui.get
 local client_set_event_callback = client.set_event_callback
 local client_console_cmd = client.exec

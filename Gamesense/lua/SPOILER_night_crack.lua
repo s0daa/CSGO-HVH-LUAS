@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- coded by shit paster & левый сын шлюхи
 
 print("night PASTA PASTA PASTAAA")

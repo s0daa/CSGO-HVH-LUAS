@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local enable_distortion = menu.add_checkbox("synth aa", "enable distortion")
 local distortion_amt    = menu.add_slider("synth aa", "distortion amount", 0, 180)
 local distortion_speed  = menu.add_slider("synth aa", "distortion speed", 0, 10)

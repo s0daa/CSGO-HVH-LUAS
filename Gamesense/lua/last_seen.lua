@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local client_set_event_callback, client_userid_to_entindex, entity_get_bounding_box, entity_get_local_player, entity_get_origin, entity_get_player_name, entity_get_player_resource, entity_get_prop, entity_is_alive, entity_is_dormant, entity_is_enemy, globals_maxplayers, math_floor, math_min, pairs, ipairs, renderer_rectangle, renderer_text, renderer_world_to_screen = client.set_event_callback, client.userid_to_entindex, entity.get_bounding_box, entity.get_local_player, entity.get_origin, entity.get_player_name, entity.get_player_resource, entity.get_prop, entity.is_alive, entity.is_dormant, entity.is_enemy, globals.maxplayers, math.floor, math.min, pairs, ipairs, renderer.rectangle, renderer.text, renderer.world_to_screen
 
 local vector = require "vector"

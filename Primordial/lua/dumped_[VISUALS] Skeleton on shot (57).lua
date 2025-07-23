@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --#ui
 local pig = menu.add_checkbox("Skeleton on hit", "Enable")
 local cow = pig:add_color_picker("Color")

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --> FFI
 ffi.cdef[[
     typedef uintptr_t (__thiscall* GetClientEntity_4242425_t)(void*, int);

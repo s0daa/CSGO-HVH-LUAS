@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local jumpbug_enable = menu.add_checkbox("movement", "jumpbug")
 local jumpbug_keybind = jumpbug_enable:add_keybind("jb key")
 local bhop_menu_boolean_checkbox = menu.find("misc", "main", "movement", "bunnyhop")

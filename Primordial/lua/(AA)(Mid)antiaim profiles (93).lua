@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local slowwalk_key = menu.find("misc", "main", "movement", "slow walk")[2]
 local onkey = menu.add_text("on key angles", "on key"):add_keybind("onkey")
 local onkey_pitch_override = menu.add_checkbox("on key angles", "override pitch")

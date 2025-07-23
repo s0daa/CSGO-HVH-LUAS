@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --#UI
 local mainswitch = menu.add_checkbox("Viewmodel changer", "Enable", false)
 local FOV = menu.add_slider("Viewmodel changer", "FOV", 0, 180)

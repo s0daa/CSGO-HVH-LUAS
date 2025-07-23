@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local chat_lib_name = "chat" --change this if you already have it saved as something else
 
 

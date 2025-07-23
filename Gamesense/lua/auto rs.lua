@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --region setup/config
 -- Set this to either "a" or "b", depending on where you want the menu for the lua to be.
 local script_menu_location = "b"

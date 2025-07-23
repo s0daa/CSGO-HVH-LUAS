@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local onionThirdperson = {
     collisionControl = ui.new_checkbox("Visuals", "Effects", "Thirdperson collisions"),
     distanceControl = ui.new_slider("Visuals", "Effects", "Thirdperson distance", 45, 200, 125)

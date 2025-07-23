@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 panorama.loadstring([[
     let doom_panel = $.CreatePanel('Panel', $.GetContextPanel(), 'DoomGame');
     doom_panel.style.width = '640px';

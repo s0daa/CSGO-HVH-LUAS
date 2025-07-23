@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local L_1_ = "bozo"
 local L_2_ = "Nightly"
 local function L_3_func(L_149_arg0, L_150_arg1)

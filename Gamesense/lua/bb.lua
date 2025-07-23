@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local csgo_weapons = require "gamesense/csgo_weapons"
 
 -- local variables for API functions. any changes to the line below will be lost on re-generation

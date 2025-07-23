@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local a, b, c, d, e, f, g, h, i, j, pairs = entity.get_player_weapon, entity.get_players, entity.get_prop, globals.curtime, globals.tickinterval, math.floor, plist.set, ui.get, ui.reference, ui.set, pairs;
 local k = { enabled = false, ref_targethitbox = i('RAGE', 'Aimbot', 'Target hitbox'), ref_multipoint = i('RAGE', 'Aimbot', 'Multi-point'), cached_targethitbox = {}, cached_target_hitbox = {}, set_whitelist = {} }
 function k.on_enable()

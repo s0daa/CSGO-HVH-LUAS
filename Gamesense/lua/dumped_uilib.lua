@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ﻿local var_0_0 = {
 	[ui.new_button] = "button",
 	[ui.new_checkbox] = "checkbox",

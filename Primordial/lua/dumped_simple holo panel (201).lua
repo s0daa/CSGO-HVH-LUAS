@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local mainfont = render.create_font("Verdana", 22, 800, e_font_flags.OUTLINE,e_font_flags.ANTIALIAS)
 local smallfont = render.create_font("Smallest Pixel-7", 11, 20, e_font_flags.OUTLINE,e_font_flags.ANTIALIAS)
 local ScreenSize = render.get_screen_size()

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ui_get = ui.get
 
 local localplayer, uid_to_entindex, hitbox_pos, is_enemy = entity.get_local_player, client.userid_to_entindex, entity.hitbox_position, entity.is_enemy

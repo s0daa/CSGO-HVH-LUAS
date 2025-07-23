@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local t_player_models = {
 
     ["skilet"] = "models/player/custom_player/rabidgames/skilet/skilet.mdl",

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 LPH_JIT = function(...) return ... end
 LPH_JIT_MAX = function(...) return ... end
 LPH_NO_VIRTUALIZE = function(...) return ... end

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 _DEBUG = true
 --start ffi region#--
 --ui.get_style("Button")

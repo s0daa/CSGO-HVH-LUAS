@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function world_point_visible(origin)
     local screen_size = render.get_screen_size()
     local w2s = render.world_to_screen(origin)

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 callbacks.add(e_callbacks.ANTIAIM, function(ctx)
 	local lp = entity_list.get_local_player()
 	local in_air = lp:get_prop("m_vecVelocity[2]") ~= 0	

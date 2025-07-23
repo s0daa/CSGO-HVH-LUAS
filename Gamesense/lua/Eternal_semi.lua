@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local base64 = {}
 local ffi = require('ffi')
 if not LPH_OBFUSCATED then

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local t_player_models = {
 
     ["Skye Summer"] = "models/player/custom_player/night_fighter/fortnite/summer_skye/summer_skye.mdl",

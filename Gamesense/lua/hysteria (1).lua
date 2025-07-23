@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --cy @ the front lines enq..
 
 local var_0_0 = "hysteria"

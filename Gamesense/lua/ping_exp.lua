@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local sv_maxunlag_ref = ui.reference("MISC", "Settings", "sv_maxunlag") -- reference for sv_maxunlag
 local sv_maxusrcmdprocessticks_ref = ui.reference("MISC", "Settings", "sv_maxusrcmdprocessticks") -- reference for sv_maxusrcmdprocessticks
 local fakelag_limit_ref = ui.reference("AA", "Fake lag", "Limit") -- reference for fakelag limit

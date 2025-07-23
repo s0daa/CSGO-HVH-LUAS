@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --| Create the menu element(s)
 local mass_slider = menu.add_slider("los the lua man", "mass slider", 0, 200, 1, 1, "kg")
 if mass_slider:get() == 0 then mass_slider:set(100) end

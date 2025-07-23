@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local libraries = {
 	csgo_weapons = require("gamesense/csgo_weapons"),
 	ffi = require("ffi"),

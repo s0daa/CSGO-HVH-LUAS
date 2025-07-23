@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local vars = {
     enable_all = menu.add_checkbox("doubletap enhancements", "enable", false),
     main_ticks_mode = menu.add_selection("doubletap enhancements", "mode", {"dynamic", "custom"}),

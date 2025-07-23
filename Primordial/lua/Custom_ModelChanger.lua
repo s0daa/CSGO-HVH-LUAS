@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local player_models = {
 		{"SANCHEZj", "models/player/custom_player/maoling/vocaloid/haku/uniform/1haku.mdl", false},
 		{"Arctic", "models/player/custom_player/eminem/css/t_arctic.mdl", false},

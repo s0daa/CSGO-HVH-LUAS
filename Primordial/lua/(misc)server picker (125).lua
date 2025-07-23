@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local servers_community = {
     ['Heretic | East'] = '74.91.125.35:27015',
     ['Heretic | West'] = '64.94.101.122:27015',

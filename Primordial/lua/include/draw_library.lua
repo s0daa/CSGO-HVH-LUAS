@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 function render.rect_fade_round_box(start_pos, end_pos, start_color, end_color, width, round)
     -- up
     render.rect_fade(vec2_t.new(start_pos.x + round, start_pos.y), vec2_t.new(end_pos.x - round * 2, end_pos.y - end_pos.y + width), start_color, end_color, true)

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local font = render.setup_font("C:/Windows/Fonts/verdanab.ttf", 16, 12)
 local whiteColor = color_t(1, 1, 1, 1)
 local accent = color_t(0.8, 1, 0.2588235294117647, 1) 

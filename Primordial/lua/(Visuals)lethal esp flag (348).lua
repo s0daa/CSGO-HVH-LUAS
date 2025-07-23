@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local text = menu.add_text("lethal esp flag", "color")
 local lethal_color = text:add_color_picker("lethal flag color")
 lethal_color:set(color_t(255, 0, 0, 255))

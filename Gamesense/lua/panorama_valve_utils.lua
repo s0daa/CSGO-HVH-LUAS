@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local utilities = {
 	CharacterAnims = "file://{resources}/scripts/common/characteranims.js",
 	ItemInfo = "file://{resources}/scripts/common/iteminfo.js",

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local menu = {
     enabled = ui.new_checkbox("VISUALS", "Effects", "Floating damage"),
     flags = ui.new_combobox("VISUALS", "Effects", "Floating damage text", "Bold", "Large", "Medium", "Small"),

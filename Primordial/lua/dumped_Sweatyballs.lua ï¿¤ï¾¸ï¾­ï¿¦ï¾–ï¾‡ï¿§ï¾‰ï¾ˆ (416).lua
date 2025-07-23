@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local conditions_names = { " 慢走", "空中", "蹲", "站立", "移动" }
 
 local references = {

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local checkbox = menu.add_checkbox("Anti-Aim", "Enabled")
 select_mode = menu.add_selection("Anti-Aim", "Mode", {"Builder"})
 conditions_name = {"Standing", "Moving", "Slowwalking", "Crouching", "Jumping", "Jumping Crouch"}

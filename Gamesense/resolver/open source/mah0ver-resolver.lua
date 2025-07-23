@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Import clipboard library from GameSense
 local clipboard = require("gamesense/clipboard")
 local ffi = require("ffi")

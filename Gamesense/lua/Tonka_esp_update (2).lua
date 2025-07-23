@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local surface = require("gamesense/surface") or error("Failed to load surface | https://gamesense.pub/forums/viewtopic.php?id=18793")
 local anti_aim = require 'gamesense/antiaim_funcs' or error("Failed to load antiaim_funcs | https://gamesense.pub/forums/viewtopic.php?id=29665")
 local bit = require("bit")

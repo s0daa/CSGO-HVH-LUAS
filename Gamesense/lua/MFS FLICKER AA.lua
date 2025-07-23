@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local fake fuck flick p = menu.add_checkbox("fake fuck flick Flick", "fake fuck flick Flick");
 local flickbind = fake fuck flick mf flickers:add_keybind("fake fuck flick flick");
 local slider = menu.add_slider("fake fuck flick Flick", "Flick Speed", 0, 16)

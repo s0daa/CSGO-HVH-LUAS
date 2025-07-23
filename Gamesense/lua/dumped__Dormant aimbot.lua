@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = client.visible
 slot1 = client.eye_position
 slot2 = client.log

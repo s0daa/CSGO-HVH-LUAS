@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = require("vector")
 slot1 = require("gamesense/uilib")
 slot2 = require("gamesense/entity")

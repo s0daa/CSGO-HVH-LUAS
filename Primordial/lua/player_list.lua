@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local p_list_menu = menu.add_list("player list", "  ", {}, 20)
 local p_list_friendly = menu.add_checkbox("player options", "friendly", false)
 local p_list_safepoint = menu.add_checkbox("player options", "force safepoint", false)

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local vector = require("vector")
 local plist_get, plist_set = plist.get, plist.set
 local get_players = entity.get_players

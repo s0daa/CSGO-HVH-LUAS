@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = require("gamesense/steamworks")
 slot1 = require("ffi")
 slot3 = slot0.EResult

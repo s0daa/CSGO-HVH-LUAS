@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local scope_master = menu.add_checkbox("custom scope", "[enable] custom scope", true)
 local scope_color = scope_master:add_color_picker("[enable] custom scope color")
 local scope_offset = menu.add_slider("custom scope", "[scope] offset", 0, 500, 1, 0)

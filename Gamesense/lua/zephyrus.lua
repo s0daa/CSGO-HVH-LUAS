@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 print("Welcome Back, owned by hakkai & discord.gg/scriptleaks")
 client.color_log(175,124,255, "[scriptleaks] cracked by scriptleaks & hakkai")
 client.color_log(175,124,255, "[scriptleaks] discord.gg/scriptleaks for more lua cracks")

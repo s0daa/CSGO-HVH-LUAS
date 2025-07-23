@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local player_models = {
 	{"gamesense", "models/player/custom_player/tate_skeet/andrewtate.mdl", true},
 	{"gamesense", "models/player/custom_player/tate_skeet/andrewtate.mdl", false},

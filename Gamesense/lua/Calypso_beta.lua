@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --- @global-region: prepare all libraries
 --- @region: declare all script library-variables
 local item = {}

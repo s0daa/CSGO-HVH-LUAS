@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --dumped and decrypted
 --by allah player
 _DEBUG = false

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local penetration = ui.new_checkbox('LUA', 'B', 'Penetration indicator')
 local color = ui.new_color_picker('LUA', 'B', '\nPenetration indicator color', 124, 195, 13, 255)
 local position = ui.new_slider('LUA', 'B', 'Position indicator', -50, 50, -25, true, 'px')

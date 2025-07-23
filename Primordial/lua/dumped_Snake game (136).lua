@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --* Woo snek game by khey
 --* enjoy
 local move_type = menu.add_selection('snek game', 'control type', {'arrows', 'wasd'})

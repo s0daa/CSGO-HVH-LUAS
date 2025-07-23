@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --By Remine :)
 --Makes ur FPS higher maybe also u can disable the panorama blur
 local fps_tog = menu.add_checkbox("Fps Boooooost", "Improve some FPS", false)

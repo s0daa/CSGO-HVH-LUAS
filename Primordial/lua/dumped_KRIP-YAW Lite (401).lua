@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local text = menu.add_text("welcome!", "Coded by PyZik and KRIPSI    \n"                    )
 local text = menu.add_text("welcome!", "KRIP-YAW Lite thx for using    \n"                    )
 local text = menu.add_text("welcome!", "Pro version - 10$ or 500 rub in our discord    \n"                    )

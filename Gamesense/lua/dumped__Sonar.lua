@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = require("vector")
 slot1 = {
 	enabled = ui.new_checkbox("LUA", "A", "Enable Sonar"),

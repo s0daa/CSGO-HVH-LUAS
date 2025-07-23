@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local base64 = {}
 base64.extract = function(value, from, width)
     return bit.band(bit.rshift(value, from), bit.lshift(1, width) - 1)

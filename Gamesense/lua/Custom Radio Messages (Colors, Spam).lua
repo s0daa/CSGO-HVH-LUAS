@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ﻿local var_0_0 = {
 	white = string.char(1),
 	red = string.char(2),

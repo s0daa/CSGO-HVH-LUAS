@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local aa_title = "Fukushima - aa"
 local rage_title = "Fukushima - rage"
 local visual_title = "Fukushima - visuals"

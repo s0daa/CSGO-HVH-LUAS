@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local accent_color_text, accent_color_color = unpack(menu.find("misc", "main", "config", "accent color"))
 
 local rainbow_speed = menu.add_slider("general", "rainbow speed", 0, 100, 1, 0, "%")

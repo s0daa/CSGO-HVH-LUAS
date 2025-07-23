@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 menu.add_text("General", "crunch.lua welcome user:" .. user.name .. " [" .. user.uid .. "]")
 local master = menu.add_checkbox("Master", "Master Switch", false)
 local zeropitch = menu.add_checkbox("features", "Zero pitch on land", false)

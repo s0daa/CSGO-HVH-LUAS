@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local add_list, add_button, add_checkbox, add_text, add_selection, add_multi_selection, add_slider, add_separator = menu.add_list, menu.add_button, menu.add_checkbox, menu.add_text, menu.add_selection, menu.add_multi_selection, menu.add_slider, menu.add_separator
 local lua = {
     version = "2.1",

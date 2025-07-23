@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local enabled = menu.add_checkbox("rainbow hud", "enable")
 local interval = menu.add_slider("rainbow hud", "interval (ms)", 0, 5000)
 

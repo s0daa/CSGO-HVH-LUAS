@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local fromdb = {username = 'discord.gg/og4leaks'} -- creds to electus
 
 local _DEBUG = true

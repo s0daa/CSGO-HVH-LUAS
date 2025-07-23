@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- By: v0ided#3570 / clpz#4466
 
 -- Vars

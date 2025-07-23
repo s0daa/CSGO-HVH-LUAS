@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local img = render.load_image("image1.png")
 local img2 = render.load_image("image2.png")
 local img3 = render.load_image("image3.png")

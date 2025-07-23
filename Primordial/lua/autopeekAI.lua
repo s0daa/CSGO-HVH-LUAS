@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local enabled_ref = menu.add_checkbox("Visualize hitscan", "Enable", true)
 local color_ref = enabled_ref:add_color_picker("Color")
 local size_ref = menu.add_slider("Visualize hitscan", "Size", 500, 4000)

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function on_paint()
     cvars.sv_party_mode:set_int(1)
 end

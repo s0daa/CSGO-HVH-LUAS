@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local old_doubletap_reference = {ui.reference("RAGE", "Aimbot", "Double tap")}
 
 ui.set_visible(old_doubletap_reference[1], false)

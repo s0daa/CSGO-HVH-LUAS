@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Made by @yaw_for_real (AWeirDKiD | UID: 192341)
 
 -- SETTINGS START

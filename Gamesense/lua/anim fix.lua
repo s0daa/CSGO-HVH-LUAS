@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local checkbox = ui.new_checkbox("AA", "Other", "Bernas198 Animation Fix")
 local pose_params = {3, 6, 7}
 local current_values = {}

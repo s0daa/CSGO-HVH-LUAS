@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local tp_distance = ui.new_slider("Misc", "Settings", "Thirdperson distance", 0, 200, 150)
 
 client.set_event_callback('paint', function()

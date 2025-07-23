@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local checkbox = ui.add_check_box("Enable Clantag", "enable_input", false)
 local textinput = ui.add_text_input("Static", "input", "NixerHook.cc")
 

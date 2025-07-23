@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local materials = {
     "particle/particle_flares/particle_flare_gray",
     "particle/smoke1/smoke1_nearcull2",

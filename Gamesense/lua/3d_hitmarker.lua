@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local client_userid_to_entindex, entity_get_local_player, entity_hitbox_position, globals_curtime, globals_tickcount, math_sqrt, renderer_line, renderer_world_to_screen, pairs, ui_get, ui_new_checkbox, ui_new_color_picker, ui_new_slider, ui_set_callback, ui_set_visible = client.userid_to_entindex, entity.get_local_player, entity.hitbox_position, globals.curtime, globals.tickcount, math.sqrt, renderer.line, renderer.world_to_screen, pairs, ui.get, ui.new_checkbox, ui.new_color_picker, ui.new_slider, ui.set_callback, ui.set_visible
 
 local success, surface = pcall(require, 'gamesense/surface')

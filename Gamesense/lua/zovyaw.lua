@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local vector = require 'vector'
 local c_entity = require 'gamesense/entity'
 local http = require 'gamesense/http'

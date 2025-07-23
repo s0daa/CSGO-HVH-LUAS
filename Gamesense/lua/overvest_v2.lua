@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local obex_data = obex_fetch and obex_fetch() or {username = 'unknown', build = 'live'}
 local ffi = require 'ffi'
 local surface = require 'gamesense/surface' or error('Failed to load script: surface library not found. Subscribe using the link and restart your game.\nLink: https://gamesense.pub/forums/viewtopic.php?id=18793')

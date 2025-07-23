@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 client.log_screen('Lua created by bugpimp42.')
 
 -- set our colors here ig --

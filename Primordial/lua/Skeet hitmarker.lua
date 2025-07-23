@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --made by walleX
 
 local text = menu.add_text("", "Made by walleX")

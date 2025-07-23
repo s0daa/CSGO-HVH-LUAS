@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
 local STATES = {
     [0x5A] = 90,  -- VK_LEFT

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 print("Coded by: https://discord.gg/UHdqX6kbnY", user.name, "with uid:", user.uid)
 local conditions_names = { "Slow Walk", "Air", "Duck", "Stand", "Move" }
 

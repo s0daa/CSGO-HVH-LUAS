@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --[[prepared to give you brainrot ~ discord: lagcomp1629]]
 local var_0_1 = 0.3
 local var_0_2 = require("gamesense/csgo_weapons")

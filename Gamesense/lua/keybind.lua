@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local GLOBAL_ALPHA = 0
 local ui_get, ui_set = ui.get, ui.set
 local measure_text = renderer.measure_text

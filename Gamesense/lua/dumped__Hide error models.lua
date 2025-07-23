@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 function slot2(slot0)
 	for slot5, slot6 in ipairs(materialsystem.get_model_materials(slot0)) do
 		if slot6:get_name() == "models/error/error" then

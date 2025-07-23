@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Deobf by soda, come on bro, base64?
 
 -- See what they fake. Strike where they can’t

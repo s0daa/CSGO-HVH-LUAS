@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function on_draw_watermark()
     local fps = client.get_fps()
     local tickrate = client.get_tickrate()

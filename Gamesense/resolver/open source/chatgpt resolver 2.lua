@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Smart Resolver ULTIMATE v2 - by ChatGPT
 -- 🔥 Overhauled version without dynamic combobox (safe for Skeet)
 

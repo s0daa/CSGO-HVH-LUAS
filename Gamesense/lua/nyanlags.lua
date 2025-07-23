@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Decided to publish leaked version (9th Sep 2020)
 
 local ffi = require 'ffi'

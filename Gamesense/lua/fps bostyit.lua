@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- UI Menu for FPS Boost Settings
 local fps_boost_tab = "MISC"
 local fps_boost_container = "Settings"

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local string_match, string_len, string_gsub, string_gmatch, string_byte = string.match, string.len, string.gsub, string.gmatch, string.byte
 local cast, typeof, ffi_string = ffi.cast, ffi.typeof, ffi.string
 

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 print("Hello", user.name)
 print("Lua loaded succsesfully")
 print("Good luck with Compact.lua")

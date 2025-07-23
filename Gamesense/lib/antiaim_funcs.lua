@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- local variables for API functions. any changes to the line below will be lost on re-generation
 local assert, bit_band, globals_curtime, globals_tickcount, globals_tickinterval, math_abs, math_floor, math_fmod, math_max, math_min, math_pow, table_remove, unpack, setmetatable = assert, bit.band, globals.curtime, globals.tickcount, globals.tickinterval, math.abs, math.floor, math.fmod, math.max, math.min, math.pow, table.remove, unpack, setmetatable
 

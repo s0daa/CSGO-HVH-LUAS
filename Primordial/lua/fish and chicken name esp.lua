@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local main_font = render.create_font("Segoe Ui", 12, 700, e_font_flags.ANTIALIAS, e_font_flags.DROPSHADOW)
 local chicken_enable = menu.add_checkbox("esp", "Chicken name", false)
 local fish_enable = menu.add_checkbox("esp", "Fish name", false)

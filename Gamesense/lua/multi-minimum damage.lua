@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local mmdmg_ui = {
     enable = ui.new_checkbox("RAGE", "Aimbot", "Multi Minimum Damage"),
     count = ui.new_combobox("RAGE", "Aimbot", "Value Multi Minimum Damage", {"0", "1", "2", "3", "4", "5"}),

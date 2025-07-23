@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --                                                   [[ asylum.PINK WARNINGS ]]
 
 local fromdb = readfile('angelbase.json') and json.parse(readfile('angelbase.json')) or ''

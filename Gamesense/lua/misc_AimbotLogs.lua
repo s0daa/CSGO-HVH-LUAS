@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local aimbotlog_enable = ui.new_checkbox("Rage", "Other", "Advanced aimbot logging")
 local on_fire_enable = ui.new_checkbox("Rage", "Other", "Fire log")
 local on_fire_colour = ui.new_color_picker("Rage", "Other", "Fire log", 147, 112, 219, 255)

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local yaw_base = menu.find("antiaim", "main", "angles", "yaw add")
 local fake_lag_value = menu.find("antiaim", "main", "fakelag", "amount")
 

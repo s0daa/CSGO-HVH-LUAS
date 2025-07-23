@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 _DEBUG = false;
 files.create_folder("csgo\\models\\remaper");
 local v0 = {

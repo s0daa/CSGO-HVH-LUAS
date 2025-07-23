@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Clipboard VGUI System
 local a = require("ffi")
 local b = client.create_interface("vgui2.dll", "VGUI_System010") or error("Error finding VGUI_System010")

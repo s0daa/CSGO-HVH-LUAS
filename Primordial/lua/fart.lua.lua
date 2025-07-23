@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local build = "Live"
 
 local cheatusername = (user.name == "          ") and "Admin" or (user.name == "" and "" or user.name)

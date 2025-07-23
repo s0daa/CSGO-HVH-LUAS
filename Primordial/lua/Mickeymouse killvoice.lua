@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local loopback = cvars.voice_loopback
 local cTime = 0
 local len = 5

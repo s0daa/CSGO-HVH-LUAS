@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function is_enemy(player)
     return entity.is_enemy(player)
 end

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --// Doners#7909 - Coder
 _G.elders_loader_versions = "1.0"
 _G.elders_username = "dev"

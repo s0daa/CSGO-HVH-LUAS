@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local args = {...}
 local render_text = render.text
 -- comment out smart stuff

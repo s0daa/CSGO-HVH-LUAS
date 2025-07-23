@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local launcher_sig = ffi.cast(ffi.typeof("void***"), memory.find_pattern("launcher.dll", "FF 15 ? ? ? ? 68 ? ? ? ? FF 74 24 14") or error("launcher sig not found", 1))
 local launch_site_native = ffi.cast("void*(__thiscall*)(int, const char*, const char*, int, int, int)", launcher_sig) or error("launch function is nil", 1)
 

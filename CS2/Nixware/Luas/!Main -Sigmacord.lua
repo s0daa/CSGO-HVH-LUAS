@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local settingList = {}
 local font14 = render.setup_font("C:/Windows/Fonts/verdanab.ttf", 11)
 local function newSetting(type, name, value, minValue, maxValue, increment, text, callback)

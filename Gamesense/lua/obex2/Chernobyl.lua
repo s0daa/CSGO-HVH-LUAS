@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- only retards change this links
 print('https://discord.gg/b37eKFbkPE <- scriptleaks new server')
 -- paid

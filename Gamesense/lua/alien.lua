@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 	local requirements = {
 		vector = require("vector"),
 		bit = require("bit"),

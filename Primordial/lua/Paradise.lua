@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- API函数的局部变量 对以下行的任何更改都将在重新生成时丢失
 local ffi = require "ffi"
 local bit_band, bit_bnot, bit_bor, bit_lshift = bit.band, bit.bnot, bit.bor, bit.lshift

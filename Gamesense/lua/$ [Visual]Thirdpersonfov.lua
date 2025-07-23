@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local client_camera_angles, client_create_interface, client_find_signature, client_set_event_callback, entity_get_classname, entity_get_local_player, entity_get_player_weapon, entity_get_prop, string_match, ui_get, error, ui_new_combobox, ui_new_slider = client.camera_angles, client.create_interface, client.find_signature, client.set_event_callback, entity.get_classname, entity.get_local_player, entity.get_player_weapon, entity.get_prop, string.match, ui.get, error, ui.new_combobox, ui.new_slider
 local get_cvar, vo_hand, vfov, vo_x, vo_y, vo_z = client.get_cvar, cvar.cl_righthand, cvar.viewmodel_fov, cvar.viewmodel_offset_x, cvar.viewmodel_offset_y, cvar.viewmodel_offset_z
 local dir = { 'LUA', 'B', 4000, { '-', 'Left hand', 'Right hand' } }

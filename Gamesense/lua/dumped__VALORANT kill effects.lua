@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = globals.realtime
 slot1 = globals.mapname
 slot2 = require("ffi")

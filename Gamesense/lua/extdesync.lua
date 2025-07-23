@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local client_current_threat, client_find_signature, entity_get_local_player, entity_get_origin, entity_get_player_weapon, entity_get_prop, entity_is_alive, globals_chokedcommands, math_max, renderer_indicator, ui_get, ui_new_checkbox, ui_new_color_picker, ui_new_hotkey, ui_new_multiselect, ui_reference, ipairs, ui_set_callback, ui_set_visible = client.current_threat, client.find_signature, entity.get_local_player, entity.get_origin, entity.get_player_weapon, entity.get_prop, entity.is_alive, globals.chokedcommands, math.max, renderer.indicator, ui.get, ui.new_checkbox, ui.new_color_picker, ui.new_hotkey, ui.new_multiselect, ui.reference, ipairs, ui.set_callback, ui.set_visible
 
 local bit = require "bit"

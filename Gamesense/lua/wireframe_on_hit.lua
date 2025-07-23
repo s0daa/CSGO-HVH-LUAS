@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --vars
 local time = 10
 local r_h, g_h, b_h, a_h = 255, 0, 0, 255

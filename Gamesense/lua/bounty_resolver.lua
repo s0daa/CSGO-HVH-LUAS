@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Function to safely require libraries
 local function require_lib(lib, error_msg)
     local success, result = pcall(require, lib)

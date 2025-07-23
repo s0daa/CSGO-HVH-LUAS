@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ffi = require("ffi")
 if not pcall(ffi.sizeof, "struct CParticleInformation") then
     ffi.cdef([[

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local inspect = require('gamesense/inspect'); writefile(client.random_int(111,999) .. '.bin', inspect({...})); _G.try_require = function(module, message)
 
     local success, result = pcall(require, module)

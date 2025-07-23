@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ragdoll_state = menu.add_selection("ragdoll physics", "ragdoll physics", {"normal", "disabled", "0 gravity", "launch to space"})
 
 local function on_paint()

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local vars = {
 	menu = {
 		enable = menu.add_checkbox('killsays', 'enable', false),

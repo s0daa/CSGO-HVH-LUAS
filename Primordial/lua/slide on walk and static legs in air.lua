@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --| Create the menu element(s)
 local should_slide = menu.add_checkbox("los the lua guy", "slide on walk", true)
 local should_jump = menu.add_checkbox("los the lua guy", "static legs in air", true)

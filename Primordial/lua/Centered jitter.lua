@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ui_call = require("UI Callbacks")
 
 local run_jitter = false

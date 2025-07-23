@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local name_font = render.create_font( "Tahoma", 13, 400, e_font_flags.DROPSHADOW )
 
 local name_esp = menu.add_checkbox( "main", "name esp" )

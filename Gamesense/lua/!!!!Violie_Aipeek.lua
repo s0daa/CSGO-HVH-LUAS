@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local client_camera_angles,
     client_current_threat,
     client_eye_position,

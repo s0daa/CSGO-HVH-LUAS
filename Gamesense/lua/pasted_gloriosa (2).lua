@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local steamname = panorama.open("CSGOHud").MyPersonaAPI.GetName()
 local euphemia = euphemia_data and euphemia_data() or {
     username = "  GLORIOSA",

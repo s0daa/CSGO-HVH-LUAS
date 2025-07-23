@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --lethal indicators--
 local screen_size = render.get_screen_size()
 local style = menu.add_selection("Lethal Indicators", "style", {"none","HL2-ish", "circle", "screen border", "traffic lights", "text", "healthshot"})

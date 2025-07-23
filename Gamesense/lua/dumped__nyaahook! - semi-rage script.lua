@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = ui.get
 slot1 = ui.set
 slot2 = entity.get_player_weapon

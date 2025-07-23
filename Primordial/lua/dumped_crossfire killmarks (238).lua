@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local killstreak = 0
 local set_headshot = false
 local killstreak_count = 0

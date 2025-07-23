@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local slider_yaw = menu.add_slider("antiaim", "yaw add", 0, 180)
 local auto_yaw = menu.add_checkbox("antiaim", "automatic yaw add", true)
 

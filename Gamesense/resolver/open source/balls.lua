@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function on_paint()
     local me = entity.get_local_player()
     if not me then return end

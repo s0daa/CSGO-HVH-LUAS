@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Find Menuvars
 local var_antiaim_main_angles_yawadd = menu.find( "antiaim", "main", "angles", "yaw add" )
 local var_antiaim_main_angles_jittermode = menu.find( "antiaim", "main", "angles", "jitter mode" )

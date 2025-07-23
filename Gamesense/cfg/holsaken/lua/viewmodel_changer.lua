@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local console_command = client.exec
 local client_userid_to_entindex = client.userid_to_entindex
 local client_draw_debug_text = client.draw_debug_text

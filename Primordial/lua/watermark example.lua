@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local enabled = menu.add_checkbox("windows", "watermark enabled")
 local font = render.create_font("Verdana", 13, 24, e_font_flags.ANTIALIAS)
 local screen_size = render.get_screen_size()

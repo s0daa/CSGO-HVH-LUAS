@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local l_manager_0 = require("neverlose/file_manager");
 local v1 = ffi.cast("void**", utils.opcode_scan("client.dll", "8B 35 CC CC CC CC FF 10 0F B7 C0", 2))[0];
 local v2 = utils.get_vfunc(2, "void*(__thiscall*)(void*, unsigned int)");

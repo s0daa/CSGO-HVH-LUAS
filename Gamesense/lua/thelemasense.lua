@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local user = "admin"
 aa_clamp = function(x)
     if type(x) ~= "number" then

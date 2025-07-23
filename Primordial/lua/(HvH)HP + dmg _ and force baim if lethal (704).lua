@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- made by danix
 
 local toggle = menu.add_checkbox("HP", "Enable", false)

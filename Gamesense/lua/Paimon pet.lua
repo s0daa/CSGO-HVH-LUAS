@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local gif_decoder = require 'gamesense/gif_decoder'
 
 local clamp = function(b,c,d)local e=b;e=e<c and c or e;e=e>d and d or e;return e end

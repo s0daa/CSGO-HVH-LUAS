@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 _DEBUG = true
 setup = function()
     local gradient = require("neverlose/gradient") -- gradient library only used for the animated sidebar

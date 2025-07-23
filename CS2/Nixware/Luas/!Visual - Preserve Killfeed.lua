@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local fnFindHudElement = ffi.cast("uintptr_t*(__fastcall*)(const char*)", find_pattern("client.dll", "40 55 48 83 EC 20 48 83"));
 local fnClearNotices = ffi.cast("void(__fastcall*)(uintptr_t)", find_pattern("client.dll", "48 89 5C 24 08 48 89 74 24 10 57 48 83 EC 20 48 8B 71 68"));
 local bClear = false;

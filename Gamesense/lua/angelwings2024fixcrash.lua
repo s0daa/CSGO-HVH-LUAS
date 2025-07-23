@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- This file was generated using Luraph Obfuscator v14.0.3 [https://lura.ph/]
 _G.xxx = true
 

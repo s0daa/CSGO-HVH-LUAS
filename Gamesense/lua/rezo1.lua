@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Если table.new недоступна, создаём fallback
 local table_new = table.new or function(narr, nrec) return {} end
 local ffi = require("ffi")

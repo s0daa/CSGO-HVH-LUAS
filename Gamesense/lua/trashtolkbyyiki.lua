@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local first = {
     'не можешь убить меня:( зайди в тг cfgbyyuki и скачай кфг)',
     '1',

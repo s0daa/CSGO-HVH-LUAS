@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local process = ui.reference("Misc", "Settings", "sv_maxusrcmdprocessticks")
 local angle = ({ui.reference("AA", "Anti-aimbot angles", "Yaw")})[2]
 local lag = ui.reference("AA", "Fake lag", "Limit")

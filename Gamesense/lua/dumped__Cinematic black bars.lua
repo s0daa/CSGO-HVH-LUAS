@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = "A"
 slot1, slot2 = client.screen_size()
 slot6 = ui.new_color_picker("LUA", slot0, "Cinematic black bars color", 0, 0, 0, 255)

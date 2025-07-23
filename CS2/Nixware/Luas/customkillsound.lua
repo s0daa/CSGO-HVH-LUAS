@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 
 local custom_sound_command = "play sounds/ambient/animal/cat_03"
 

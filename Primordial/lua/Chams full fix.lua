@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- local variables for API functions. any changes to the line below will be lost on re-generation
 local callbacks_add, entity_list_get_local_player, global_vars_real_time, materials_create, math_floor, math_sin, menu_add_checkbox, menu_add_multi_selection, menu_add_slider = callbacks.add, entity_list.get_local_player, global_vars.real_time, materials.create, math.floor, math.sin, menu.add_checkbox, menu.add_multi_selection, menu.add_slider
 

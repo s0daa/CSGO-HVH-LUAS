@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- cringe clock syncing thing
 -- credits: @estk - ping spike (datagram ind.) calculations
 

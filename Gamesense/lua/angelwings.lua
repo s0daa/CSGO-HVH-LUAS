@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 writefile("angelbase.json",'{"key":"pasted shit lua","username":"your_username"}') -- set your username here
 --[[
 discord.gg/scriptleaks

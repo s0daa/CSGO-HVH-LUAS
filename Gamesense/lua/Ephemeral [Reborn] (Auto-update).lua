@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local base64 = require("gamesense/base64")
 local http = require("gamesense/http")
 

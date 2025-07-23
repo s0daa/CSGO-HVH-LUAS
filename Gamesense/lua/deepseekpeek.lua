@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Advanced AI Peek for GameSense (HvH Optimized)
 local ffi = require 'ffi'
 local vector = require 'vector'

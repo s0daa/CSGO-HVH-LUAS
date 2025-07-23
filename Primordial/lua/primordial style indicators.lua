@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local checkbox = menu.add_checkbox("Indicators", "Indicators", false)
 local colorpicker = checkbox:add_color_picker("Indicators")
 

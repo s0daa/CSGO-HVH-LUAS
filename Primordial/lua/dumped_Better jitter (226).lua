@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- add those GOD DAMN ELEMENTS
 local yaw_offset = menu.add_slider("better jitter", "yaw offset", -180, 180)
 local jitter_offset = menu.add_slider("better jitter", "jitter offset", -180, 180)

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function __thiscall(func, this) -- bind wrapper for __thiscall functions
     return function(...)
         return func(this, ...)

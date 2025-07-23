@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Local variables
 local client_set_event_callback, client_get_cvar, renderer_indicator, renderer_text, client_screensize = client.set_event_callback, client.get_cvar, renderer.indicator, renderer.text, client.screen_size
 local ui_get, ui_set, ui_set_visible, ui_ref, ui_set_callback = ui.get, ui.set, ui.set_visible, ui.reference, ui.set_callback

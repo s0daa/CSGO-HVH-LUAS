@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local weapons = require("weapons")
 
 local g_TextureSpacing = {x = 3, y = 1}

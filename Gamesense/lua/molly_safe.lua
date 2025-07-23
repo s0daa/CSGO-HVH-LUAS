@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ui_get = ui.get
 local entity_get_all = entity.get_all
 local entity_get_prop = entity.get_prop

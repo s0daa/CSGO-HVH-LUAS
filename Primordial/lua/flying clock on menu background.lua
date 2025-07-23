@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local background_alpha = 0
 local snowflake_alpha = 0
 local imgscale = menu.add_slider("main", "image scale", 1, 30)

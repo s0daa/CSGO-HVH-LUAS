@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local module = {
   _version = "vector.lua v2019.14.12",
   _description = "a simple vector library for Lua based on the PVector class from processing",

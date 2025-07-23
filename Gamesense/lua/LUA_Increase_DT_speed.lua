@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ticks = ui.reference("MISC", "Settings", "sv_maxusrcmdprocessticks")
 local dt_key = ui.new_checkbox("AA", "Other", "dangerous dt")
 local function run_dt()

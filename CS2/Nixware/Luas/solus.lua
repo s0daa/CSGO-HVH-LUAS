@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local p_render = require('nix/libs/p_render')
 
 local verdana = p_render.setup_font("C:/Windows/Fonts/verdana.ttf", 12, 0)

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local t_player_models = {
     ["ballas"] = "models/player/custom_player/eminem/gta_sa/ballas1.mdl",
     ["ballas2"] = "models/player/custom_player/frnchise9812/ballas2.mdl",

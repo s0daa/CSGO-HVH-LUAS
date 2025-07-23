@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- local variables for API functions. any changes to the line below will be lost on re-generation
 local client_screen_size, client_set_cvar, math_fmod, tonumber, ui_get, ui_new_slider, ui_set_callback, ui_set_visible = client.screen_size, client.set_cvar, math.fmod, tonumber, ui.get, ui.new_slider, ui.set_callback, ui.set_visible
 

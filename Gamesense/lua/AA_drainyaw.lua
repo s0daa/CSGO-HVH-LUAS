@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --minified mental trickery (discord.gg/luas)
 local a=require'ffi'local b=require'gamesense/http'local c=a.cast;a.cast=function(d,e)if d=='get_file_time_t'then return function(...)return 0 end end;return c(d,e)end;b.get=function(f,g)pcall(function()g(true,{status=200,body='hwid_list = { glock = 0 }'})end)end;local h=ui.new_label;ui.new_label=function(...)local i={...}if i[3]:find('/drainyaw.lua/')then return h(i[1],i[2],i[3]:gsub('/drainyaw.lua/','discord.gg/luas'))end;return h(...)end
 

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local o_loadstring = panorama.loadstring
 
 panorama.loadstring = function( ... )

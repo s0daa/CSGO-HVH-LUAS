@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function setbotsnguns()
     engine.execute_cmd("god; bot_kick; mp_respawn_on_death_t 1; mp_respawn_on_death_ct 1; bot_add_ct; bot_add_ct; bot_add_ct; bot_stop 1; give weapon_molotov; give weapon_smokegrenade; give weapon_hegrenade") --edit this to add items after delayed execution
 end

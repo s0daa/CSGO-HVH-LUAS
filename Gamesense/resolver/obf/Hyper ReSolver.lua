@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --[Obfuscated by Hercules v1.6.2 -> https://github.com/zeusssz/hercules-obfuscator | zeusssz.github.io/hercules-discord/ | by using the Hercules bot -> https://top.gg/bot/1293608330123804682]
 local dbpfmd=66 if true then local _=67 end local qvsxqe=80 local function meiejx(tjjrku)local _=17 end local qprcln=21 local function vhrugd(kwfbuu)local _=51 end local oihwqh=63 while false do local _=4 break end while false do local _=39 break end if true then local _=46 end local zocryg=99 local function mdmmpz(bqizzf)local _=36 end local function otdehr(ragxrm)local _=29 end local function cytzpk(ibzrbt)local _=99 end local function tyowjo(txcxcy)local _=76 end local executed=false while not executed do if math.random(0,1)==0 then local _=417 else executed=true end end local ffi=require'ffi'ffi.cdef[[
     struct animation_layer_t {

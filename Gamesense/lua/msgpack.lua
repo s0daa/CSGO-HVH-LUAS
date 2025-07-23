@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- local variables for API functions. any changes to the line below will be lost on re-generation
 local math_floor, math_fmod, math_frexp, math_ldexp, string_reverse, table_insert, ipairs, print, string_byte, table_remove, type, error, pairs, assert, string_sub, table_concat =
 math.floor, math.fmod, math.frexp, math.ldexp, string.reverse, table.insert, ipairs, print, string.byte, table.remove,

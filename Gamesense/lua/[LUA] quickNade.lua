@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ﻿local globals_tickcount = globals.tickcount
 local globals_tickinterval = globals.tickinterval
 local entity_get_prop = entity.get_prop

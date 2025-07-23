@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local first = {
     'я твоей мамой в футбик играл',
     'У тебя бабушка на вулкане застряла или че?',

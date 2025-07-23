@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local clipboard     = require "gamesense/clipboard"
 local base64        = require"gamesense/base64"
 local ffi           = require"ffi"

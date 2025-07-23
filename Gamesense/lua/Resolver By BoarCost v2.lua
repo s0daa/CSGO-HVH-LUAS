@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Ultimate AI Evolution Resolver (All-in-One Evolutionary AI)
 -- Combines Yaw Correction, Movement Prediction, Desync Counter, Double-Tap Sync, Missed Shot Correction, and Adaptation
 

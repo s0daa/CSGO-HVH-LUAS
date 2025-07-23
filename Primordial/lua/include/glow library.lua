@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local table = {}
 
 function table.render_glow(x,y,w,h,round,r,g,b,a,glow_size)

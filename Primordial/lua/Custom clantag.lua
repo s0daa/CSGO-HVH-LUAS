@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local clan_tag = menu.add_text_input( "clan", "clantag" )
 local clan_tag_delay = menu.add_slider( "clan", "delay", 1, 100 )
 

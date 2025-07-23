@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Adding color picker
 local textWatermark = menu.add_text("Custom", "Watermark color")
 local accentColor = textWatermark:add_color_picker("Watermark color")

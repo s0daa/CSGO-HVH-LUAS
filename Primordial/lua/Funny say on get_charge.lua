@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --// Thnx for crent revise script B)
 local talk_timer = 0; --// don't get smoked by csgo rate limit B)
 local hi = 0

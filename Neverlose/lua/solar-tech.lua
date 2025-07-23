@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- SOLAR.TECH [STABLE BUILD]
 
 local animation, aa_init, crosshair, feature, localplayer_info, renders, cfg, corner, dynamic, logs, ents, buff, vmt_hook, hooked_function, ground_ticks, end_time, lagcomp = { data = {} }, {}, {}, {}, { real_yaw = 0, fps_saver = false, side = 0, inverter = false, viewmodel_x, viewmodel_y, viewmodel_z, viewmodel_fov }, {}, {}, { Data = {} }, {}, {}, {}, { free = {} }, { hooks = {} }, nil, 1, 0, { r = 142, g = 165, b = 255, a = 0, positions = {}, lc = false}

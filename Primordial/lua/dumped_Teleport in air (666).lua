@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 weapons_name = {"ssg08", "awp"}
 master_switch = menu.add_checkbox("Teleport in air", "Master Switch", false)
 teleport_weapons = menu.add_multi_selection("Teleport in air","Weapons", weapons_name)

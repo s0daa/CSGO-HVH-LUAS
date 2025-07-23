@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --| Create the menu element(s)
 local rainbow_checkbox = menu.add_checkbox("nihao", "rainbow", true)
 

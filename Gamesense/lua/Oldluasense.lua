@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local vector = require("vector")
 local clipboard = require("gamesense/clipboard")
 local slow, key = ui.reference("aa", "other", "slow motion")

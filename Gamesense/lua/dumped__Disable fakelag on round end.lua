@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = ui.get
 slot1 = ui.set
 slot2 = ui.new_checkbox("aa", "fake lag", "Disable fake lag on round end")

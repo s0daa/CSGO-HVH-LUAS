@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local friendly_fire = menu.add_text("Friendly fire", "friendly_fire")
 local friendly_fire_ref = friendly_fire:add_keybind("friendly_fire_toggle")
 

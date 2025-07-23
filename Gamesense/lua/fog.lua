@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local fog_master_boolean = gui.add_checkbox( "Enable fog", "lua>tab a" )
 local fog_color_picker = gui.add_colorpicker( "lua>tab a>enable fog", true, render.color( 255, 255, 255, 255 ) )
 local fog_start_slider = gui.add_slider( "Fog start", "lua>tab a", -200, 5000, 1 )

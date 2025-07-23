@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -->> Create Required FFI Elements <<
 local ffi = require("ffi")
 ffi.cdef([[

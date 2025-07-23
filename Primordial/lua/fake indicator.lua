@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- same font as supremacys
 local main_font = render.create_font("Verdana", 26, 700, e_font_flags.ANTIALIAS, e_font_flags.DROPSHADOW)
 

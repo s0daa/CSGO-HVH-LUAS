@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local slider = menu.add_slider("Third person fix", "Distance", 30, 150)
 local find_og_distance = menu.find("visuals","other","thirdperson","distance")
 

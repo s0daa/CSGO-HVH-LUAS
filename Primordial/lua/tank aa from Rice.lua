@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local yddyaw = menu.find("antiaim","main","angles","yaw add")
 local tank_sw = menu.add_checkbox("Tank AA", "Enable", true)
 local tank_yaw = menu.add_slider("Tank AA", "Delta", 1, 90)

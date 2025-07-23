@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --* Zeus warning, [Hit flag] (justin)
 local icon_font = render.create_font("UnderStrukk Regular", 22, 100, e_font_flags.ANTIALIAS)
 local ind = menu.add_checkbox("Zeus Warning", "Enable")

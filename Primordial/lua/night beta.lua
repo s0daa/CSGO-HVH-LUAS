@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ffi = require('ffi')
 if not LPH_OBFUSCATED or LPH_OBFUSCATED == nil then
     LPH_ENCSTR = function (...) return ... end

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 vector = require('vector')
 
 local aa_funcs = require 'gamesense/antiaim_funcs' or error('Missing https://gamesense.pub/forums/viewtopic.php?id=29665')

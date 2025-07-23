@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --By Remine :)
 --Makes ur FPS higher maybe
 cvar4 = cvars.r_shadows

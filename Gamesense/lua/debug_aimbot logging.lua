@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local printf = function(...)
 	utils.print_console('[fatality] ', render.color(255, 35, 35))
 	utils.print_console(string.format(...)..'\n', render.color(217, 217, 217))

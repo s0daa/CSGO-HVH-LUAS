@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ui_new_hotkey, ui_get, entity_get_player_weapon, entity_get_local_player, entity_get_prop, globals_tickinterval, client_exec, client_set_event_callback = ui.new_hotkey, ui.get, entity.get_player_weapon, entity.get_local_player, entity.get_prop, globals.tickinterval, client.exec, client.set_event_callback
 
 local last_swap = 0; 

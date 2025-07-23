@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ui_get, ui_set_visible = ui.get, ui.set_visible
 
 local is_alive, localplayer = entity.is_alive, entity.get_local_player

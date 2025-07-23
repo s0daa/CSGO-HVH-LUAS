@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --- @diagnostic disable
 local bit_band, bit_bnot, bit_bor, bit_bxor, bit_lshift, bit_tohex = bit.band, bit.bnot, bit.bor, bit.bxor, bit.lshift, bit.tohex;
 local absf, ceil, cosf, floor, fmodf, maxf, minf, radf, sinf, sqrtf = math.abs, math.ceil, math.cos, math.floor, math.fmod, math.max, math.min, math.rad, math.sin, math.sqrt;

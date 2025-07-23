@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = require("gamesense/panorama_events")
 slot1 = require("gamesense/steamworks")
 slot2 = require("ffi")

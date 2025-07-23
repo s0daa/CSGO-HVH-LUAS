@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = vtable_bind("engine.dll", "VEngineClient014", 196, "bool(__thiscall*)(void*)")
 slot1 = {}
 slot2 = {}

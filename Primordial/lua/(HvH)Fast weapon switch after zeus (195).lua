@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --thanks the thought from other forum
 --paste by Remine again hahahahaha
 local switch_id = menu.add_selection( "Fast Switch After Zues ", "Weapon",  {"Primary", "Secondry", "Knife" } )

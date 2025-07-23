@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function OnWeaponChanged(oldWeapon, newWeapon)
 	if newWeapon ~= nil then
 		newWeapon:set_current_ammo(9999)

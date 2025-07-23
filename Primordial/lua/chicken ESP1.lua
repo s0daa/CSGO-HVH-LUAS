@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local verdana = render.create_font("Verdana", 12, 100, e_font_flags.ANTIALIAS, e_font_flags.DROPSHADOW)
 
 callbacks.add(e_callbacks.PAINT, function()

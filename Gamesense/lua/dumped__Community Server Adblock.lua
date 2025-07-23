@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = require("ffi")
 slot2 = require("gamesense/string_tables")
 slot4 = vtable_bind("engine.dll", "VEngineClient014", 78, "void*(__thiscall*)(void*)")

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- // variables
 local offset = 35 -- // notification offset
 local screen_size = render.get_screen_size() -- // size of players screen

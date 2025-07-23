@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local lua_name = "winter"
 local lua_color = {r = 155, g = 157, b = 217}
 local obex_data = obex_fetch and obex_fetch() or {username = 'alpha', build = 'alpha', discord='https://discord.gg/auTEU8dcv6'}

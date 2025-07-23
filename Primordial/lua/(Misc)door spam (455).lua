@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local text = menu.add_text("door spam", "enable")
 local keybind = text:add_keybind("yo")
 

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local check = ui.new_checkbox("AA", "Anti-aimbot angles", "Edge yaw on hotkey")
 local hotkey = ui.new_hotkey("AA", "Anti-aimbot angles", "Edge yaw on hotkey", true)
 local edge = ui.reference("AA", "Anti-aimbot angles", "Edge yaw")

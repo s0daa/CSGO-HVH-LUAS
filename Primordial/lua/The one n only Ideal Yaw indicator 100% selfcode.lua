@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local indicfont = render.create_font("Tahoma", 12, 300, e_font_flags.ANTIALIAS, e_font_flags.DROPSHADOW)
 local screen_size = render.get_screen_size()
 local x, y = screen_size.x / 2, screen_size.y / 2

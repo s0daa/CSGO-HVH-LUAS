@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local wp_to_cfg = 'Global'
 local cfg_to_name = string.format('[%s]', wp_to_cfg)
 local ovr_hc, ovr_dmg = 0, 0

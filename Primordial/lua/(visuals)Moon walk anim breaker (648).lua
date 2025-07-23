@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local multi_selection = menu.add_multi_selection("Breaker", "THIS ANIM BREAKER ONLY FOR LOCAL PLAYER (NO SERVER SIDE!)", {"Moon walk", "Moon walk static air", "Rofl"})
 
 callbacks.add(e_callbacks.ANTIAIM, function(ctx)

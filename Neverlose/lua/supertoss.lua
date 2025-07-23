@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local switch = false
 
 local _switch = ui.find("Aimbot", "Anti\x20Aim", "Angles"):switch(string.format("\a%s%s", "B6B666FF", "Straight\x20Throw"))

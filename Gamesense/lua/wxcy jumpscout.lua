@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local air_strafe = ui.reference("Misc", "Movement", "Air strafe")
 local enable_it = ui.new_checkbox("Misc", "Movement", "Jumpscout")
 

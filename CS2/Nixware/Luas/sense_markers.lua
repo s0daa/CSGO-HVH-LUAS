@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local COLOR_RIGHT_HERE = color_t(255, 255 / 255, 255 / 255, 0.8)
 local KIBIT = false;
 

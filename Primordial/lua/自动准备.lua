@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local hook=require("hooking library")
 
 local function vtable_bind(module, interface, index, type)

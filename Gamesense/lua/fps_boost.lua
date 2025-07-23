@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 cvar.cl_disablefreezecam:set_float(1)
 cvar.cl_disablehtmlmotd:set_float(1)
 cvar.r_dynamic:set_float(0)

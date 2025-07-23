@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local screen_size = render.get_screen_size()
 
 local x = menu.add_slider("dt indicator", "x", 0, screen_size.x)   

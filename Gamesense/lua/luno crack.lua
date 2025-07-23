@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Egor_X_Swaga
 
 local ui = require "gamesense/pui"

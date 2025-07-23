@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --| Menu shit
 watermark = menu.add_checkbox("visuals", "watermark")
 indi = menu.add_multi_selection("visuals", "indicators", {"eb", "jb", "ej"})

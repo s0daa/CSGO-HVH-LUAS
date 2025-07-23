@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local main_font = render.create_font("Arial", 18, 600, e_font_flags.ANTIALIAS)
 
 callbacks.add(e_callbacks.WORLD_HITMARKER, function(screen_pos, world_pos, alpha_factor, damage, is_lethal, is_headshot)

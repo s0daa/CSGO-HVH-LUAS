@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --> CHANGE ME
 local notification_library_name = "notifications" -- ../scripts/include/(notification name)
 local chat_library_name = "chat" -- ../scripts/include/(chat print name)

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local get, set, userid_to_entindex, get_local_player, set_visible, get_prop, pairs = ui.get, ui.set, client.userid_to_entindex, entity.get_local_player, ui.set_visible, entity.get_prop, pairs
 
 local glove_skins = {

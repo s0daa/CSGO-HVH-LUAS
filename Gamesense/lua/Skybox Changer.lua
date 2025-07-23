@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Skybox Changer, Made By Exodouding (13429) for skeet.cc/gamesense.pub
 
 local ffi = require("ffi")

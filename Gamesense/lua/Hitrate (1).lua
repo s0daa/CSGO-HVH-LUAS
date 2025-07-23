@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local callback = client.set_event_callback
 local indicator = renderer.indicator
 local uicallback = ui.set_callback

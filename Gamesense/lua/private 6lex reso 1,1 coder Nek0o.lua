@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 print("6LEX Advanced Resolver");
 
 local ffi = require("ffi");

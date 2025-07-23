@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 _DEBUG = true
 local enc = require("neverlose/crc32")
 local b_render = require("neverlose/b_renderer")

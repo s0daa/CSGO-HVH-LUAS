@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local luamenu = {}
 luamenu.toggle = menu.add_checkbox("override hitchance in air (scout)", "toggle")
 luamenu.hitchanceslider = menu.add_slider("override hitchance in air (scout)","hitchance value in air",0, 100 )

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local checkbox = menu.add_checkbox("Teleport", "Teleport on key", false)
 local tpb = checkbox:add_keybind("Teleport");
 

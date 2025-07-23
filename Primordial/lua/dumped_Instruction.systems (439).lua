@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function on_net_update()
     -- @note: setup local
     local local_player = entity_list.get_local_player()

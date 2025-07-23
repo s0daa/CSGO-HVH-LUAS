@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local effect_time = menu.add_slider("health shot effect", "[health shot] effect time", 0, 1, 0.1, 1) -- creating a slider for effect time
 
 effect_time:set(1) --setting our slider to 1 by default

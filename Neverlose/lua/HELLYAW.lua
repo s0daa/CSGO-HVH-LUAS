@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local lib, mui, drag, monylinear, smooth, nade_prediction = require("neverlose/liberia"), require("neverlose/mui"), require("neverlose/dragging_system"), require("neverlose/monylinear"), require("neverlose/smooth"), (require("neverlose/grenade_prediction")("M1337NP") or { "Oops... The library's broken." })
 local clipboard = require("neverlose/clipboard")
 print = function(...)

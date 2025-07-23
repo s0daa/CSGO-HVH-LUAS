@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot1 = require("bit").band
 slot2 = entity.get_prop
 slot3 = entity.get_players

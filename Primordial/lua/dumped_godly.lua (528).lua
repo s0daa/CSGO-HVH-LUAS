@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local conditions_names = { "slow walk", "air", "duck", "stand", "move" }
 
 extra_tab = menu.add_text( "godly.lua", "UID: " .. user.uid )

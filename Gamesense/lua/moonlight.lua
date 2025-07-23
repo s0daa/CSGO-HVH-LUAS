@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ui = require("gamesense/pui")
 local _entity = require("gamesense/entity")
 local weapons = require("gamesense/csgo_weapons")

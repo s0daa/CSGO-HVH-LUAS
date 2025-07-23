@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --ЧУНДРА ЧУЧУНДРА ЧУНДРА ЧУЧУНДРА
 --фу блять кто им позволил лурапф настраивать я хз
 local ui = require("gamesense/pui")

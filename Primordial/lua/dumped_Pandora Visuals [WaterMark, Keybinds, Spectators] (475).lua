@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local pixel = render.create_font("Smallest Pixel-7", 10, 20, e_font_flags.OUTLINE)
 local wtf_font = render.create_font("Verdana", 12, 300, e_font_flags.ANTIALIAS, e_font_flags.DROPSHADOW)
 local verdana = render.create_font("Verdana", 12, 300, e_font_flags.DROPSHADOW)

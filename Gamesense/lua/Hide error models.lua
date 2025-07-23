@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ﻿local var_0_0 = require("gamesense/netvar_hooks")
 local var_0_1 = ui.new_checkbox("MISC", "Miscellaneous", "Hide error models")
 

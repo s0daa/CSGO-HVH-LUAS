@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local get_module_handle_sig = memory.find_pattern("engine.dll", " FF 15 ? ? ? ? 85 C0 74 0B") or
                                   error("couldn't find GetModuleHandle signature")
 local get_proc_address_sig = memory.find_pattern("engine.dll", " FF 15 ? ? ? ? A3 ? ? ? ? EB 05") or

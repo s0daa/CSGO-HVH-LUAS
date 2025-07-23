@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local mainswitch = menu.add_checkbox("Trails", "Enable")
 local addswitch = menu.add_checkbox("Trails", "[Debug]")
 --local showbt = menu.add_checkbox("Show backtrack", "Enable")

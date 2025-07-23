@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Localize often used API variables
 local ui_reference, ui_set_visible, ui_new_button, color_log = ui.reference, ui.set_visible, ui.new_button, client.color_log
 

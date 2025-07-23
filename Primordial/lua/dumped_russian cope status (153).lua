@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local http = require 'http'.new{
         task_interval = 0.3,
         timeout = 10,

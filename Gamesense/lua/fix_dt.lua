@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local fake = gui.get_config_item('rage>anti-aim>desync>fake')
 local fakelag = gui.get_config_item('rage>anti-aim>fakelag>mode')
 local dt = gui.get_config_item('rage>aimbot>aimbot>double tap')

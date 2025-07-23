@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local set_console = ui.new_checkbox("misc", "Settings", "Filter console")
 ui.set_callback(set_console, function()
     if ui.get(set_console) then

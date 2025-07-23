@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function vtable_entry(instance, index, type)
     return ffi.cast(type, (ffi.cast("void***", instance)[0])[index])
 end

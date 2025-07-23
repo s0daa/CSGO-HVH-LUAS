@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --client.exec('clear')
 local err = false
 local requiredLibs = {

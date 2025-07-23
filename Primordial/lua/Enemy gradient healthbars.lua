@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local menu_elems = {}
 
 menu_elems.master = menu.add_checkbox('Gradient healthbars', 'Enable gradient healthbars')

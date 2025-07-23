@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --
 -- Script name: Helper
 -- Script version: 1.2.1

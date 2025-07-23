@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = client.camera_angles
 slot1 = client.create_interface
 slot2 = client.delay_call

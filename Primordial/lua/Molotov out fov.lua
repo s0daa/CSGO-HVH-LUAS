@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function rotate_angle(cx, cy, deg, distance, xmp, ymp)
     local viewAngles = engine.get_view_angles()
 

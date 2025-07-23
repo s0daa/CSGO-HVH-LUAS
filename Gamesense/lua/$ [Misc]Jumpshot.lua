@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local find, get, set = ui.reference, ui.get, ui.set
 local set_event = client.set_event_callback
 local get_prop, get_local = entity.get_prop, entity.get_local_player

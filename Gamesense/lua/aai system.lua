@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --stay og leaks kids....
 local aa = {
 	enable = ui.reference("AA", "Anti-aimbot angles", "Enabled"),

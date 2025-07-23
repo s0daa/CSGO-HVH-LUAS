@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local refs = {
     isDT = menu.find("aimbot", "general", "exploits", "doubletap", "enable"), -- get doubletap
     isHS = menu.find("aimbot", "general", "exploits", "hideshots", "enable"), -- get hideshots

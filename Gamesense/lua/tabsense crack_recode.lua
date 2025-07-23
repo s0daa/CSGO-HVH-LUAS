@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local lua_name = "TABSENSE"
 local lua_color = {r = 190, g = 190, b = 255}
 local data = {username = 'Admin', build = 'Alpha'}

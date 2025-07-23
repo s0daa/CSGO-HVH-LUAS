@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Advanced Resolver Helper for GameSense.pub
 
 -- Define resolver settings in the menu

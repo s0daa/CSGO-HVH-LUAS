@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 _DEBUG = false;
 _DISABLE_UI_EVENTS = false;
 _DEBUG = _DEBUG and common.get_username() == common.get_script_author();

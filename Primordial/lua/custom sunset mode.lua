@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local check = menu.add_checkbox("world changer", "custom sunset mode")
 local x = menu.add_slider("world changer", "x pos", -100, 100)
 local y = menu.add_slider("world changer", "y pos", -100, 100)

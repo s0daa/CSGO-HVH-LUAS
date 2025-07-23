@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 logged_in = true
 
 for l, e in pairs({ (function(e, ...)

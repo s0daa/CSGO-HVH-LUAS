@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local libs = {
     ['gamesense/http'] = 'gamesense / http',
     ['gamesense/pui'] = 'gamesense / pui',

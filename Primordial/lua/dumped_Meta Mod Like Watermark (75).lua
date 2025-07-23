@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local Water_tog = menu.add_checkbox("Watermark", "Enable")
 local Water_Col = Water_tog:add_color_picker("Watermark Color")
 local verdana = render.create_font("Verdana", 12, 24, e_font_flags.ANTIALIAS)

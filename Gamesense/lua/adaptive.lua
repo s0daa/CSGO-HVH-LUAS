@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- local variables for API functions. any changes to the line below will be lost on re-generation
 -- fixed by @d4ssh for 17/03/2023 skeet update
 -- Make sure, that you have enabled only Global weapon type in Aimbot menu tab! (disable all other weapon type, use only global)

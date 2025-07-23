@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- made by stars#3787
 -- CHANGE STUFF IN THE SCRIPT FOR IT TO WORK
 -- read the notes pls

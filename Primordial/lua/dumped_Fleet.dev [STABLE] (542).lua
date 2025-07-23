@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --[[
     #section: info
     CodeStyle: doublesexual case[sName = string, iName = int, bName = boolean and etc...]

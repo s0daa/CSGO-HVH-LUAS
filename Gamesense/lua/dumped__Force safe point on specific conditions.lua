@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot2 = entity.get_players
 slot3 = entity.get_prop
 slot4 = plist.get

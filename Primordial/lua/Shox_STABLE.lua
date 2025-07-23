@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local version = "debug"
 local header = ""
 local font = render.create_font("verdana", 13, 50, e_font_flags.DROPSHADOW)

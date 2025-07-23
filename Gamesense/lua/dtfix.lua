@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local antiaim_funcs = require("gamesense/antiaim_funcs")
 
 local vars = {

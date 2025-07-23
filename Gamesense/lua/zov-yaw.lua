@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local vector = require('vector')
 local http = require('gamesense/http')
 local base64 = require('gamesense/base64')

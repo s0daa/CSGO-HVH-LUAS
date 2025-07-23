@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 
 local dmg = ui.reference("RAGE", "Aimbot", "Minimum damage")
 local dmgoverride = {ui.reference("RAGE", "Aimbot", "Minimum damage override")}

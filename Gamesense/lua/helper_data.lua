@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --[[
 dumped file helper_data.ljbc 10:27 27.08.2020 [ sshunko tools ]
 ]]

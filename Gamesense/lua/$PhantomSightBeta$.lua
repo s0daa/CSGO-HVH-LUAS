@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Gamesense VM-Obfuscated Resolver
 local ffi = require("ffi")
 local base64 = require("base64")

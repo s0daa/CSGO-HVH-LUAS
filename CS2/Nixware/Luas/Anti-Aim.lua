@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- i think this might be the first aa-lua in the community, make: SYR1337
 -- build: 2024.10.30
 -- update: 2024.10.31

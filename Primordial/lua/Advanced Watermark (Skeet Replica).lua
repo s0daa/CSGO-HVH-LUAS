@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local font=render.create_font("Verdana.ttf", 14,400,e_font_flags.ANTIALIAS, e_font_flags.DROPSHADOW)
 local api = require("primordial/Extended API.493")
 

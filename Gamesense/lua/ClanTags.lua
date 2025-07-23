@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ui.new_label("LUA", "A", " ")
 ui.new_label("LUA", "A", "------------------   [ Clantag.lua ]    ------------------")
 ui.new_label("LUA", "A", " ")

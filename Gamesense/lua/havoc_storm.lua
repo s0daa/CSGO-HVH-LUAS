@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -->>START_INFO_BLOCK
 -- project_name=Havoc Storm;
 -- version=1.1.0;

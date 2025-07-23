@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ui = menu.add_checkbox("Constellation HP indicator / Health Bar", "Enable", false)
 local color = ui:add_color_picker("bruh color")
 local key2 = {menu.add_slider("Constellation HP indicator / Health Bar", "X", 1, 1920),menu.add_slider("Constellation HP indicator / Health Bar", "Y", 1, 1080)}

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 callbacks.add(e_callbacks.DRAW_WATERMARK, function() return "" end)
 local panorama, screen, font, Png, bind_modes, avatars, avg, fps = require("primordial/panorama-library.248"), render.get_screen_size(), render.create_font("Verdana", 12, 400, e_font_flags.DROPSHADOW), {}, { [0] = "[toggle]", [1] = "[hold]", [2] = "[~]" }, {}, 0, 0
 math.lerp = function(name, value, speed) return name + (value - name) * global_vars.absolute_frame_time() * speed end

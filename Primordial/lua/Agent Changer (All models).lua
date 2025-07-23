@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local player_models = {
 	{"T Model", "models/player/custom_player/legacy/tm_phoenix.mdl", true},
 	{"CT Model", "models/player/custom_player/legacy/ctm_sas.mdl", false},

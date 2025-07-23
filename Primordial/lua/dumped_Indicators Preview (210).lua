@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --=======PreviewByAntiOrder======--
  --=======Fonts======--
 local menu_color = select(2, unpack(menu.find("misc", "main", "config", "accent color")))

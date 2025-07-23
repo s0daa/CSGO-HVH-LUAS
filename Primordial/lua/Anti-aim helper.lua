@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 client.log_screen('Lua created by bugpimp42.')
 
 local enable    = menu.add_checkbox("Main", "Enable", false)

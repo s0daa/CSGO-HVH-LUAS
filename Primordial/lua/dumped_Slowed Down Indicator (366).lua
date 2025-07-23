@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local lib = require("primordial/notification pop-up library.58")
 lib:add_notification("Nado", "Don't Forget To Rate My Script", 7)
 

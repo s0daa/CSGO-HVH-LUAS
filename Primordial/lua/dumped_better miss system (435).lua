@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function on_aimbot_miss(miss)
 
     local color = menu.find( 'misc', 'main', 'config', 'accent color', 0 )

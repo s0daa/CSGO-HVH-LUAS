@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- ported by: Minarut // original author: difj
 do
     local script_path = debug.getinfo(1, "S").source:sub(2)

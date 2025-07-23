@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Dodanie do istniejącej zakładki "LUA"
 local enable_resolver = ui.new_checkbox("LUA", "B", "Enable Resolver")
 local enable_jitter = ui.new_checkbox("LUA", "B", "Enable Jitter Resolver")

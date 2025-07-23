@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local jump_key = input.find_key_bound_to_binding("jump")
 
 local function on_run_command(cmd, unpredicted_data)

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local player_models = {
     -- [Menu name] = path to model
     ["Slingshot"] = "models/player/custom_player/legacy/tm_phoenix_variantg.mdl",

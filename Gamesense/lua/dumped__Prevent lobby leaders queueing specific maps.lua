@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot0 = panorama.open()
 slot1 = {
 	["Mirage (Scrimmage)"] = "mg_de_mirage_scrimmagemap",

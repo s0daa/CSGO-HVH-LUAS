@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --Base by PaveKyz
 --Modified by ToOl_UmbRelLa[mildnsj]
 local config = {

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --You have my permission to use this script anywhere and for anything pasting etc. Credit needs to be included!
 local clantag_main = gui.add_combo("Clantags", "Lua>Tab A", {"OFF","MonkeySquad","BosniaHook","Ev0lve","Primordial","RaweTrip","Neverlose","Gamesense","Skeet.cc","Nemesis","Onetap.su","Monolith","Airflow","PlagueCheat","xixurHVH","SpiritHack","Legendware","Nixware","Aimware","Weave","Rifk"})
 local main_MonkeySquad = {

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local current_score = menu.add_text("cookie-clicker", "current score : 0")
 local multiply_score = menu.add_text("cookie-clicker", "multiply : 1x")
 

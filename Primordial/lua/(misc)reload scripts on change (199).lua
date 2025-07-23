@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --|
 local filesystem = ffi.cast("void***", memory.create_interface("filesystem_stdio.dll", "VFileSystem017"))
 ffi.cdef([[

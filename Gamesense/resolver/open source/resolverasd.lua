@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Настройки резолвера
 local settings = {
     enabled = true,           -- Включить резольвер (true/false)

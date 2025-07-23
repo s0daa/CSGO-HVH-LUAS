@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ---@diagnostic disable: undefined-global, undefined-field
 -- Data to fetch
 local obex_data = obex_fetch and obex_fetch() or {username = 'FiveQe', build = 'PRIV'}

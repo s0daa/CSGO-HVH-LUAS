@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --| Create the menu element(s)
 local show_text = menu.add_checkbox("los the lua man", "show velocity", true)
 

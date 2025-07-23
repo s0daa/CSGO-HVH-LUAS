@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local anti_aim = require ("gamesense/antiaim_funcs") or error("Failed to load antiaim_funcs | https://gamesense.pub/forums/viewtopic.php?id=29665")
 local http = require("gamesense/http") or error("Failed to load http | https://gamesense.pub/forums/viewtopic.php?id=19253")
 local discord = require("gamesense/discord_webhooks") or error("Failed to load discord | https://gamesense.pub/forums/viewtopic.php?id=24793")

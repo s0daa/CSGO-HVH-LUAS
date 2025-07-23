@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local player_models = {
     ["model"] = "models/player/custom_player/frnchise9812/ballas1.mdl",
 }

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local replacements = {
 	["{white}"] = "\x01",
 	["{darkred}"] = "\x02",

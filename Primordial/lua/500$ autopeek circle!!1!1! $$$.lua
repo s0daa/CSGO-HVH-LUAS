@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local elements = {
     enable = menu.add_checkbox("Sk33t peek!!!", "Enable", false),
     size = menu.add_slider("Sk33t peek!!!", "Size", 20, 50),

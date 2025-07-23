@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ffi.cdef [[
     typedef int(__thiscall* get_clipboard_text_count)(void*);
 	typedef void(__thiscall* set_clipboard_text)(void*, const char*, int);

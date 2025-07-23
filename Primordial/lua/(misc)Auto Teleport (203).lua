@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function are_have_weapon(ent)
     if not ent:is_alive() or not ent:get_active_weapon() then return end
     local t_cur_wep = ent:get_active_weapon():get_class_name()

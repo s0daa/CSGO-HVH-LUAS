@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ui = {
     weapon_selection = menu.add_multi_selection("AIMBOT HELPER -> CONFIGURATION", "weapon selection", {"auto", "scout", "awp", "deagle", "revolver", "pistols", "other"}),
     debug_enabled = menu.add_checkbox("AIMBOT HELPER -> DEBUG", "debug", true),

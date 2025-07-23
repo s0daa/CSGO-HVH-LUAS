@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local lua_name = "name"
 
 function split_string_in_half(input_string)

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ﻿-- lightleaks
 
 local var_0_0 = "hysteria"

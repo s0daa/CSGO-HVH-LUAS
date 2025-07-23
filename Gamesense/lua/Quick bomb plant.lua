@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ﻿local var_0_0 = ui.new_checkbox("MISC", "Miscellaneous", "Auto plant")
 local var_0_1 = ui.new_hotkey("MISC", "Miscellaneous", "Auto plant hotkey", true)
 local var_0_2

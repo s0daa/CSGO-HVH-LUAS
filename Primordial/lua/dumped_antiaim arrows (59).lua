@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local fake_checkbox = menu.add_checkbox("general", "fake arrow")
 local fake_color = fake_checkbox:add_color_picker("fake arrow color", color_t(240, 85, 85))
 local fake_arrow_length = menu.add_slider("general", "fake arrow lenght", 10, 150)

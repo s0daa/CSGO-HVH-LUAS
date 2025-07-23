@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local changelog = menu.add_text ("Radial V2 LUA", "-=Changelog=-              Thank you for using this lua")
 local changelog = menu.add_text ("Radial V2 LUA", "-------------------                      Latest updates log")
 local changelog = menu.add_text ("Radial V2 LUA", "LUA created by                       - 16.06-22")

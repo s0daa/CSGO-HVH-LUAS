@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local skybox_bool_checkbox = gui.add_checkbox("Load skybox", "LUA>TAB a")
 local skybox_value_textbox = gui.add_textbox("Skybox name", "LUA>TAB a")
 local skybox = skybox_value_textbox:get_string()

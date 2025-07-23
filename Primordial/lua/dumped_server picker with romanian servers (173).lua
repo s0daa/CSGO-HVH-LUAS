@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local servers_community = {
     ['NeonHvH | Mirage Only'] = '188.212.101.13:27015',
     ['10fps | Mirage/Office Only'] = '89.40.104.214:27015',

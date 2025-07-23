@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local font = render.create_font("VERDANAB.ttf", 17)
 local font2 = render.create_font("VERDANAB.ttf", 32)
 local easing = require("easing")

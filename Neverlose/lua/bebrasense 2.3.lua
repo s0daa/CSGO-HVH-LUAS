@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Lua coded by matt, stefan is not responsible for this shitcode 😂
 
 local user = {name = common.get_username(), version = "2.3", build = {current = "alpha", color_rgb = color(255,100,100), color_hex = "\aff6464ff"}}

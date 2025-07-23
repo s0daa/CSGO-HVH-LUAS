@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local gdgdfdfgdfddg,ref_doubletap = ui.reference("RAGE", "Other", "Double Tap")
 local ref_peekassist = ui.reference("RAGE", "Other", "Duck peek assist")
 local ref_enabled = ui.new_checkbox("RAGE", "Other", "Double tap fix")

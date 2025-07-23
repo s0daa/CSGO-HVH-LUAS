@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local refs = {
     rage_cb = { ui.reference("RAGE", "Aimbot", "Enabled") },
     dt = { ui.reference("RAGE", "Aimbot", "Double tap") },

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --variables used to calculate hitrate information
 totalshots = 0
 hits = 0

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function vtable_bind(class, _type, index)
     local this = ffi.cast("void***", class)
     local ffitype = ffi.typeof(_type)

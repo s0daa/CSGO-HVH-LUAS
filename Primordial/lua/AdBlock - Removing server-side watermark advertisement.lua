@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 if (engine.is_connected()) then print("AdBlocker is enabled! Please reconnect to server for stable operation") end
 engine.execute_cmd("con_filter_enable 1")
 engine.execute_cmd("con_filter_text_out \"blocking\"");

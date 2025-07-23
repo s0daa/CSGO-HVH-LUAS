@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local flash_light = menu.add_checkbox( "main", "flash light" )
 local flash_light_key = flash_light:add_keybind( "flashlight key" )
 

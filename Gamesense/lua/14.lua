@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local collision = ui.new_checkbox("Misc", "Settings", "Cam collision")
 
 local set_console = ui.new_checkbox("misc", "Settings", "Filter console")

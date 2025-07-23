@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local killsays = {
     "Bite ME!",
     "Hi, I'm Serial Designation N! You must be new to our Squad.",

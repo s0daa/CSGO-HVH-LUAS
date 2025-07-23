@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ---@diagnostic disable: lowercase-global, unbalanced-assignments, deprecated, need-check-nil, undefined-global, undefined-field
 ---@sentinel cs2 ◣_◢
 local accent = color_t(0.8, 1, 0.2588235294117647,1)

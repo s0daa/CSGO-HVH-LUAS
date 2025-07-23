@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --Made by EdwiN
 function clamp(x, min, max)
 	return x < min and min or x > max and max or x

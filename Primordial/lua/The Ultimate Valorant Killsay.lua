@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local killsays = {
 	"Open up the sky!",
 	"Prepare for hellfire!",

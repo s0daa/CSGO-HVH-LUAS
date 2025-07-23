@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local third_p_dis = 0
 local ref = {
         trd_p_key = menu.find("visuals", "other", "thirdperson", "enable"),

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local screen_size = render.get_screen_size()
 local enable = menu.add_checkbox("general", "enable draw purchases")
 local name_color = enable:add_color_picker("names", color_t(255, 255, 255, 255), false)

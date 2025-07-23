@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local l_format_0 = string.format;
 local l_concat_0 = table.concat;
 local l_math_0 = math;

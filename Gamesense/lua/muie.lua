@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function copy(orig)
     if type(orig) ~= "table" then
         return orig

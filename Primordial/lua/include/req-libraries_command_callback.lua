@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local hook local lib_found = pcall(function() hook = require("primordial/hooking library.174") end)
 
 if (lib_found) then

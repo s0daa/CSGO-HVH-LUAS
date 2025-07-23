@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- local variables for API functions. any changes to the line below will be lost on re-generation
 local globals_curtime, require, ipairs, math_abs, table_insert, table_remove, ui_get, ui_new_checkbox, ui_reference, ui_set, ui_set_callback, ui_set_enabled, defer = globals.curtime, require, ipairs, math.abs, table.insert, table.remove, ui.get, ui.new_checkbox, ui.reference, ui.set, ui.set_callback, ui.set_enabled, defer
 

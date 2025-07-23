@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local master_switch = ui.new_checkbox("VISUALS", "Other ESP", "Minimum Damage Override Indicator")
 
 local references = {

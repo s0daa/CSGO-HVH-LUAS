@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local pState = nil
 local iGroundTick = 0
 local bStop = false

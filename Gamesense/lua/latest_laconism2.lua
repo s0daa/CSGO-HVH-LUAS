@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local username = "bozo"
 local build = "Nightly"--_G.astra and loader_decode_string(loader_get_user_build()) or "Private"
 local function try_require(module, msg)

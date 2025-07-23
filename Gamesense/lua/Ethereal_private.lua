@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- only retards change this links
 print('https://discord.gg/b37eKFbkPE <- scriptleaks new server')
 -- local variables for API functions. any changes to the line below will be lost on re-generationlocal 

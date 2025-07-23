@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ui_get = ui.get
 local ui_set = ui.set
 local client_exec = client.exec

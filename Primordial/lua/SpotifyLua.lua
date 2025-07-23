@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ffi = require("ffi")
 local json = require("primordial/JSON Library.97")
 local httpFactory = require("primordial/Lightweight HTTP Library.46")

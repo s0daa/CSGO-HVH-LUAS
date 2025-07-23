@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local screen_size = render.get_screen_size()
 local verdana = render.create_font("verdana", 26, 800, e_font_flags.ANTIALIAS, e_font_flags.DROPSHADOW)
 

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- here's a real crack without needing to use a web debugger to get a response you mindless apes
 --[[
     sc0ut.lua team :p

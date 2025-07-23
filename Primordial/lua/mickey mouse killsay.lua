@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function death_event(event_info)
     local attacker = entity_list.get_player_from_userid(event_info.attacker)
     local victim = entity_list.get_player_from_userid(event_info.userid)

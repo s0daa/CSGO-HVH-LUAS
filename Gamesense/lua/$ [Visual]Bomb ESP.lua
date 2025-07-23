@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local bomb_cb, bomb_color = ui.reference("visuals", "other esp", "bomb")
 local dropped_weapons = ui.reference("visuals", "other esp", "dropped weapons")
 

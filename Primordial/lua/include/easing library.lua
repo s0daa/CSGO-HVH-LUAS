@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --
 -- Adapted from
 -- Tweener's easing functions (Penner's Easing Equations)

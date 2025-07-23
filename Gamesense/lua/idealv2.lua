@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --version 1.1.6 // last updated 07/19/20
 
 --comes with manual aa

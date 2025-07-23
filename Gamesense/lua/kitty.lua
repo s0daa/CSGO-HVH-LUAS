@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local inspect = require 'gamesense/inspect'
 local surface = require 'gamesense/surface'
 local resolver_font = surface.create_font("Verdana", 12, 400, 0x200)

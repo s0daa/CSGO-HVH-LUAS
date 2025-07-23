@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- 📌 Core Information
 local RESOLVER_VERSION = "3.0.0-2025"
 local LAST_UPDATE = "2025-02-26 15:42:34"

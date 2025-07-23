@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local pixelsmall = render.create_font("Smallest Pixel-7", 19, 1000, e_font_flags.OUTLINE)
 local csansms = render.create_font("Comic Sans MS", 14, 300, e_font_flags.OUTLINE)
 local arielfont = render.create_font("Ariel", 17, 300, e_font_flags.OUTLINE)

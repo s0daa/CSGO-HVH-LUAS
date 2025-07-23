@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local enabled_ref = menu.add_checkbox("visual hitscan puk", "Enable", true)
 local color_ref = enabled_ref:add_color_picker("puk color")
 local size_ref = menu.add_slider("visual hitscan puk", "Size", 100, 2000)

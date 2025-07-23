@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local obex_data = {username = 'scriptleaks', build = 'User'}
 local a = require "gamesense/antiaim_funcs"
 local function b(c)

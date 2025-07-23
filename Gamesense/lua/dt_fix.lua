@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Reference
 local fakeduck = ui.reference("RAGE", "Other", "Duck peek assist")
 local doubleTap = ui.reference("RAGE", "Other", "Double Tap");

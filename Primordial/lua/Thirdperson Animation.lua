@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- { References }
 local alive_thirdperson = menu.find("visuals","other","thirdperson","enable")
 local cam_idealdist = menu.find("visuals","other","thirdperson","distance")

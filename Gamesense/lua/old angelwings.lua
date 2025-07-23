@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ffi = require("ffi") or error('Allow unsafe scripts')
 local vector = require("vector")
 local bit = require("bit")

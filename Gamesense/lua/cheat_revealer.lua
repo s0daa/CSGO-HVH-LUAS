@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- | LEAK BY PILOT (GS BETA, SON OF OSU!TERIK), CONTACT p.#2527
 
 local uilib = require("gamesense/uilib")

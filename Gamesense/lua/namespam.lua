@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local credits = ui.new_label('LUA', 'A', 't.me/neverlosehost');
 local spamenabled = ui.new_checkbox('LUA', 'A', 'nickname change spammer');
 local n0 = ui.new_label('LUA', 'A', 'please, click on Steal Player Name IN MISC');

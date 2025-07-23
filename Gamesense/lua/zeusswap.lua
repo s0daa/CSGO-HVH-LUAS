@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local configure_combobox = ui.new_combobox( "Rage", "Other", "ZEUS SWAP",
 "Auto",
 "Primary",

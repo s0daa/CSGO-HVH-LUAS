@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ui = {
     color = menu.add_text("SFAES -> IDEAL TICK", "color"):add_color_picker("color"),
 }

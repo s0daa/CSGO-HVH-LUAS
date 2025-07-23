@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local lua_name = "t a b s e n s e"
 local lua_color = {r = 222, g = 195, b = 195}
 local data = obex_fetch and obex_fetch() or {username = 'wyscigufa9', build = 'Source', discord=''}

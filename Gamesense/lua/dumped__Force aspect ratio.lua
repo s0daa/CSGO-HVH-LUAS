@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 slot1 = client.set_cvar
 slot2 = math.fmod
 slot3 = tonumber

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local clip = require("primordial/clipboard lib.131")
 --local notifications = require("primordial/notification pop-up library.58")
 local chat = require("primordial/chat printing lib.128")

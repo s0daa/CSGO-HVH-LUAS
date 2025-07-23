@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local t_player_models = {
     ["Artic"] = "models/player/custom_player/eminem/css/t_arctic.mdl", 
     ["blackballas"] = "models/player/custom_player/caleon1/ballas1/ballas1.mdl",

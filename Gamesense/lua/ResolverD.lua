@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- Snou Resolver Beta (Optimized Version)
 
 local playerDataList = {}

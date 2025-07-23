@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local screen_size = render.get_screen_size()
 local screen_x, screen_y = screen_size.x / 2, screen_size.y / 2
 

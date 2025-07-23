@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local math_lerp = function(start, vend, time)
     return start + (vend - start) * time
 end

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local fakeflick = menu.add_checkbox("lol", "Fake Flick");
 local flickbind = fakeflick:add_keybind("fake flick");
 local Inverter = menu.add_checkbox("lol", "Inverter");

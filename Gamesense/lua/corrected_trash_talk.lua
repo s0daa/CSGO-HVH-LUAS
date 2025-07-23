@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 
 -- Исправленный скрипт Trash Talk на Lua
 -- Сообщения теперь корректно соответствуют событиям убийства или смерти

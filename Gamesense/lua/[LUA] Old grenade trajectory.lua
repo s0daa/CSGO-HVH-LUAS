@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local globals_realtime = globals.realtime
 local globals_curltime = globals.curltime
 local globals_frametime = globals.frametime

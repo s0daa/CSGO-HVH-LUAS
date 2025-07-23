@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ui_items = {}
 ui_items.script_enabled = menu.add_checkbox("ThirdPerson", "Thirdperson", true)
 ui_items.switch = ui_items.script_enabled:add_keybind("Bind")

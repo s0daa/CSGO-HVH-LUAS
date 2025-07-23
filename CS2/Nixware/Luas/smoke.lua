@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local m_vSmokeColor = engine.get_netvar_offset("client.dll", "C_SmokeGrenadeProjectile", "m_vSmokeColor")
 register_callback("paint", function() -- colored smoke
     entitylist.get_entities("C_SmokeGrenadeProjectile", function(smoke)

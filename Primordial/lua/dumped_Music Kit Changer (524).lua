@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local menu_items = {
     kit_selector = menu.add_list("Music kit changer", "Kit", {
         "Crimson Assault by Daniel Sadowski",

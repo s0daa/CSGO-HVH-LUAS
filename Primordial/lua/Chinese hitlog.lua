@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local logs = {}
 local fonts = nil
 local wantTimer = menu.add_checkbox("Animated Hit Logs", "Enable Timer", true)

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local entity_get_prop = entity.get_prop
 local ui_get = ui.get
 local client_camera_angles = client.camera_angles

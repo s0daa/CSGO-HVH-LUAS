@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 client.log_screen('Fade.Lua')
 
 local ui_call = require("UI Callbacks")

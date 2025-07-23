@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local pixel = render.create_font("Cascadia Mono", 15, 0, e_font_flags.OUTLINE)
 
 --binds

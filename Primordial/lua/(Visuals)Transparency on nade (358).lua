@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local render_color = menu.add_text("Transparency on nade", "Transparency alpha"):add_color_picker("Transparency color")
 
 render_color:set(color_t(255, 255, 255, 100))

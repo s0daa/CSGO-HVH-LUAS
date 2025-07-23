@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- downloaded from dsc.gg/southwestcfgs
 
 local vector = require("vector")

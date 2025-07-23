@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local Ideal_tick_switch = gui.add_checkbox("Ideal tick on autopeek", "LUA>TAB a")
 autopeek = gui.get_config_item("Misc>Movement>Peek Assist")
 doubletap = gui.get_config_item("Rage>Aimbot>Aimbot>Double tap")

@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ﻿local revolver_helper = ui.new_checkbox("lua", "a", "Enable revolver helper")
 
 local function Vector(x,y,z) 

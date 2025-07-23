@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local data = {}
 local font = render.create_font('Small Fonts', 12, 200, e_font_flags.OUTLINE)
 local font_x = render.create_font('Comic Sans MS Bold', 15, 550, e_font_flags.OUTLINE)

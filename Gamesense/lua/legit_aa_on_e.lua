@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local legit_aa_on_key = ui.new_hotkey("AA", "Anti-aimbot angles", "Legit anti-aim (on key)")
 local freestanding_body_yaw = ui.reference("AA", "Anti-aimbot angles", "Freestanding body yaw")
 local body_yaw, body_yaw_slider = ui.reference ('aa', 'anti-aimbot angles', 'body yaw')

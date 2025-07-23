@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --[[
 regionlist: -DEPENDENCIES
             -USER_DATA

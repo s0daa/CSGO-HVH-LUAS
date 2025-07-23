@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- [ Requirements ]
 local pui = require("gamesense/pui")
 local anti_aim = require 'gamesense/antiaim_funcs' or error("Missing antiaim funcs library");

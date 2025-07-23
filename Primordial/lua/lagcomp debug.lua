@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- local variables for API functions. any changes to the line below will be lost on re-generation
 local callbacks_add, client_time_to_ticks, engine_is_connected, engine_is_in_game, entity_list_get_local_player, entity_list_get_players, global_vars_frame_time, global_vars_interval_per_tick, math_floor, menu_add_text, render_create_font, render_get_screen_size, render_text, render_world_to_screen, pairs, trace_line = callbacks.add, client.time_to_ticks, engine.is_connected, engine.is_in_game, entity_list.get_local_player, entity_list.get_players, global_vars.frame_time, global_vars.interval_per_tick, math.floor, menu.add_text, render.create_font, render.get_screen_size, render.text, render.world_to_screen, pairs, trace.line
 

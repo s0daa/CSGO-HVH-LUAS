@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 -- я не писал на луа больше года, может быть говнокод
 
 local CoordX = 100 -- координаты по x

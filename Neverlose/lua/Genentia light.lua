@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 _DEBUG = false
 local pui = require "neverlose/pui"
 local clipboard = require "neverlose/clipboard"

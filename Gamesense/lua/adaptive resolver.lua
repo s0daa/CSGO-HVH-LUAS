@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 do local ffi=require("ffi");local clipboard=require("gamesense/clipboard");ffi.cdef([[
     typedef struct {
         float m_flWeight;

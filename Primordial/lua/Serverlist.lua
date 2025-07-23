@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local servers_community = {
     ['InfinityHVH 16k'] = '74.91.113.70:27015',
 }

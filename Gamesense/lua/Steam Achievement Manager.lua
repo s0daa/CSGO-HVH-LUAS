@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ﻿local var_0_0 = require("gamesense/steamworks")
 local var_0_1 = require("ffi")
 local var_0_2 = var_0_0.ISteamUserStats

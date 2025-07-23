@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --Made By ! Reload#0001
 
 local pixel = render.create_font("Smallest Pixel-7", 10, 20, e_font_flags.OUTLINE)

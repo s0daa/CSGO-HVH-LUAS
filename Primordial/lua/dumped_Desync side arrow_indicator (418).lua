@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local fake_checkbox = menu.add_checkbox("Desync Side Indicator", "Fake Side")
 local fake_color = fake_checkbox:add_color_picker("Fake Side color")
 

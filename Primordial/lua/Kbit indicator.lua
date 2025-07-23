@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local function active_weapon()
     if ragebot.get_active_cfg() == 0 then
         return 'auto'

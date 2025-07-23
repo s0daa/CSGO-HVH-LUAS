@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local ref = { }
 
 ref.kill_say = menu.add_checkbox("killsay", "enable", false)

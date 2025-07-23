@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local v0 = true;
 local l_camera_position_0 = render.camera_position;
 local l_camera_angles_0 = render.camera_angles;

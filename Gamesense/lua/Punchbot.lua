@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 ﻿local var_0_0 = client.eye_position
 local var_0_1 = client.camera_angles
 local var_0_2 = client.visible

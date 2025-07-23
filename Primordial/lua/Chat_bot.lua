@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 local checkbox1 = menu.add_checkbox("say's", "miss say")
 local checkbox2 = menu.add_checkbox("say's", "tickbase say")
 local checkbox3 = menu.add_checkbox("say's", "kill say")

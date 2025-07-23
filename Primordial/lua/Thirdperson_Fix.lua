@@ -1,3 +1,5 @@
+-- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
+
 --by ivg
 
 local menugroup = menu.set_group_column("Menu", 1) 
