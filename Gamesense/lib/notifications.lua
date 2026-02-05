@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = require("gamesense/pui")
+local var_0_0 = require("gamesense/pui")
 local var_0_1 = require("gamesense/icons")
 local var_0_2 = {}
 local var_0_3 = ui.reference("MISC", "Settings", "Menu color")

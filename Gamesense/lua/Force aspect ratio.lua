@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = client.screen_size
+local var_0_0 = client.screen_size
 local var_0_1 = client.set_cvar
 local var_0_2 = math.fmod
 local var_0_3 = tonumber

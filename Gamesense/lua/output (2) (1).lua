@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿--Lightleaks.gg--
+--Lightleaks.gg--
 
 local L0 = require 'ffi'
 local L1 = require 'bit'

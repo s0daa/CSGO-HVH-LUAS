@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local globals_realtime = globals.realtime
+local globals_realtime = globals.realtime
 local client_userid_to_entindex = client.userid_to_entindex
 local entity_get_local_player = entity.get_local_player
 local entity_get_prop = entity.get_prop

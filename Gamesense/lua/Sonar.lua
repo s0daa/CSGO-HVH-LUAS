@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = require("vector")
+local var_0_0 = require("vector")
 local var_0_1 = {
 	enabled = ui.new_checkbox("LUA", "A", "Enable Sonar"),
 	volume = ui.new_slider("LUA", "A", "Sonar Volume", 0, 10, 10, true, "", 0.1),

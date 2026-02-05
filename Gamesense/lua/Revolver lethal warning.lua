@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = bit.band
+local var_0_0 = bit.band
 local var_0_1 = client.set_event_callback
 local var_0_2 = entity.get_bounding_box
 local var_0_3 = entity.get_local_player

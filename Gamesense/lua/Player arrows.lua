@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = require("vector")
+local var_0_0 = require("vector")
 local var_0_1 = require("gamesense/images")
 local var_0_2 = require("gamesense/uilib")
 local var_0_3 = client.screen_size

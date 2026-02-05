@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿-- local variables for API functions. any changes to the line below will be lost on re-generation
+-- local variables for API functions. any changes to the line below will be lost on re-generation
 local client_eye_position, client_register_esp_flag, client_trace_bullet, entity_get_local_player, entity_get_player_weapon, entity_get_players, entity_get_prop, entity_hitbox_position, plist_get, plist_set, require, ui_new_checkbox, pairs, ui_get, ui_set_callback, client_set_event_callback, client_unset_event_callback = client.eye_position, client.register_esp_flag, client.trace_bullet, entity.get_local_player, entity.get_player_weapon, entity.get_players, entity.get_prop, entity.hitbox_position, plist.get, plist.set, require, ui.new_checkbox, pairs, ui.get, ui.set_callback, client.set_event_callback, client.unset_event_callback
 
 local vector = require('vector')

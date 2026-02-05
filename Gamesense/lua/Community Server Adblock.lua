@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = require("ffi")
+local var_0_0 = require("ffi")
 local var_0_1 = require("gamesense/http")
 local var_0_2 = require("gamesense/string_tables")
 local var_0_3 = ui.new_checkbox("MISC", "Miscellaneous", "Block server advertisements")

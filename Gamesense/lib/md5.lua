@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = {}
+local var_0_0 = {}
 local var_0_1 = string.char
 local var_0_2 = string.byte
 local var_0_3 = string.format

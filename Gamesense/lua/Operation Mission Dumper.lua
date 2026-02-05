@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿require("gamesense/panorama_valve_utils")
+require("gamesense/panorama_valve_utils")
 
 local var_0_0 = panorama.open()
 local var_0_1 = var_0_0.GameTypesAPI.GetActiveSeasionIndexValue()

@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = require("gamesense/uix")
+local var_0_0 = require("gamesense/uix")
 local var_0_1 = client.userid_to_entindex
 local var_0_2 = entity.get_players
 local var_0_3 = entity.get_prop

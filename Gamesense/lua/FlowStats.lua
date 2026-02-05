@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = (function()
+local var_0_0 = (function()
 	local var_1_0 = require("ffi")
 	local var_1_1 = client.find_signature("client.dll", "\xFF\xE1") or client.find_signature("engine.dll", "\xFF\xE1") or client.find_signature("engine.dll", "Q\xC3") or client.find_signature("client.dll", "Q\xC3") or error("sysstats.1")
 

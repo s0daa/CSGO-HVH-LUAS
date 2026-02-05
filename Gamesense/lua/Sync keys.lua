@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = false
+local var_0_0 = false
 local var_0_1 = {
 	[0] = "Always on",
 	"On hotkey",

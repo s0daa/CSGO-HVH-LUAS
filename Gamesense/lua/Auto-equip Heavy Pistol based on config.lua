@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = require("gamesense/csgo_weapons")
+local var_0_0 = require("gamesense/csgo_weapons")
 local var_0_1 = panorama.open()
 local var_0_2 = var_0_1.LoadoutAPI
 local var_0_3 = var_0_1.InventoryAPI

@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = require("bit").band
+local var_0_0 = require("bit").band
 local var_0_1 = entity.get_prop
 local var_0_2 = entity.get_players
 local var_0_3 = entity.is_enemy

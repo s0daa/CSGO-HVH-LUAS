@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = client.register_esp_flag
+local var_0_0 = client.register_esp_flag
 local var_0_1 = client.trace_bullet
 local var_0_2 = entity.get_local_player
 local var_0_3 = entity.get_prop

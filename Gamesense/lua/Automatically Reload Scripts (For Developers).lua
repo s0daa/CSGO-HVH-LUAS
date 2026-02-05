@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = vtable_bind("engine.dll", "VEngineClient014", 196, "bool(__thiscall*)(void*)")
+local var_0_0 = vtable_bind("engine.dll", "VEngineClient014", 196, "bool(__thiscall*)(void*)")
 local var_0_1 = {}
 local var_0_2 = {}
 

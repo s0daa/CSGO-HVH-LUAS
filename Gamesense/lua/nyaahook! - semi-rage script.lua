@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = ui.get
+local var_0_0 = ui.get
 local var_0_1 = ui.set
 local var_0_2 = entity.get_player_weapon
 local var_0_3 = entity.get_players

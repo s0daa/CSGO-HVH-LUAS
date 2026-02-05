@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = panorama.open()
+local var_0_0 = panorama.open()
 local var_0_1 = {
 	Cbble = "mg_de_cbble",
 	Nuke = "mg_de_nuke",

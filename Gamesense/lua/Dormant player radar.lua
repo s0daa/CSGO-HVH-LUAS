@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = require("ffi")
+local var_0_0 = require("ffi")
 local var_0_1 = var_0_0.cast
 local var_0_2 = ui.reference("VISUALS", "Player ESP", "Dormant")
 local var_0_3 = ui.reference("VISUALS", "Other ESP", "Radar")

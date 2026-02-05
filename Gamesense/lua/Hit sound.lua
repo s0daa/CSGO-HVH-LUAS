@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = require("ffi")
+local var_0_0 = require("ffi")
 local var_0_1 = require("gamesense/uix")
 local var_0_2 = client.set_event_callback
 local var_0_3 = client.unset_event_callback

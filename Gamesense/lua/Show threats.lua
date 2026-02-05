@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = entity.get_prop
+local var_0_0 = entity.get_prop
 local var_0_1 = ui.get
 local var_0_2 = math.sqrt
 local var_0_3 = math.sin

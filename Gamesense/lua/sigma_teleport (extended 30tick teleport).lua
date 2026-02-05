@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = bit.lshift(1, 11)
+local var_0_0 = bit.lshift(1, 11)
 local var_0_1 = 0.3
 local var_0_2 = require("gamesense/csgo_weapons")
 local var_0_3 = client.screen_size

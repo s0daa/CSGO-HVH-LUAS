@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local enable_clantag = menu.add_checkbox("rawetrip fake","on/off")
+local enable_clantag = menu.add_checkbox("rawetrip fake","on/off")
 
 
 local function on_draw_watermark(watermark_text)

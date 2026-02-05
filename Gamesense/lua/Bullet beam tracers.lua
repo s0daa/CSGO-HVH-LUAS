@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = bit.band
+local var_0_0 = bit.band
 local var_0_1 = bit.bor
 local var_0_2 = client.eye_position
 local var_0_3 = client.find_signature

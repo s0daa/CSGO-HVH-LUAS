@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = require("ffi")
+local var_0_0 = require("ffi")
 local var_0_1 = client.create_interface("vguimatsurface.dll", "VGUI_Surface031")
 local var_0_2 = vtable_thunk(71, "unsigned int(__thiscall*)(void*)")
 local var_0_3 = vtable_thunk(72, "void(__thiscall*)(void*, unsigned long, const char*, int, int, int, int, unsigned long, int, int)")

@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = require("gamesense/csgo_weapons")
+local var_0_0 = require("gamesense/csgo_weapons")
 local var_0_1 = {
 	HELMET = bit.lshift(1, 0),
 	KEVLAR = bit.lshift(1, 1),

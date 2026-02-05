@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = "A"
+local var_0_0 = "A"
 local var_0_1, var_0_2 = client.screen_size()
 local var_0_3 = math.floor(0.23809523809523808 * var_0_2 / 2 + 0.5)
 local var_0_4 = ui.new_checkbox("LUA", var_0_0, "Cinematic black bars")

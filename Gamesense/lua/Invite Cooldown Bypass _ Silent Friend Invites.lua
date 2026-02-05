@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = require("gamesense/steamworks").ISteamMatchmaking
+local var_0_0 = require("gamesense/steamworks").ISteamMatchmaking
 local var_0_1 = panorama.open()
 
 MyPersonaAPI = var_0_1.MyPersonaAPI

@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = 15
+local var_0_0 = 15
 local var_0_1 = ui.new_checkbox("CONFIG", "Presets", "Third person animation")
 local var_0_2 = {
 	ui.reference("Visuals", "Effects", "Force third person (alive)")

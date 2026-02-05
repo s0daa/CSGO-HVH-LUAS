@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = ui.new_checkbox("VISUALS", "Other ESP", "Enable C4 Timer")
+local var_0_0 = ui.new_checkbox("VISUALS", "Other ESP", "Enable C4 Timer")
 local var_0_1 = ui.new_color_picker("VISUALS", "Other ESP", "C4 Timer Color")
 local var_0_2 = ui.new_slider("VISUALS", "Other ESP", "Radius", 20, 100, 50, true, "%")
 local var_0_3 = ui.new_slider("VISUALS", "Other ESP", "Oval", 0, 50, 0, true, "%")

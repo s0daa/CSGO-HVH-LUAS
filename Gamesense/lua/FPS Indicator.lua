@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = require("bit")
+local var_0_0 = require("bit")
 local var_0_1 = renderer
 local var_0_2 = var_0_1.gradient
 local var_0_3 = var_0_1.rectangle
