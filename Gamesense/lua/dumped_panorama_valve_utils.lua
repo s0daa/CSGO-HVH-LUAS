@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = {
+local var_0_0 = {
 	IconUtil = "file://{resources}/scripts/common/icon.js",
 	SessionUtil = "file://{resources}/scripts/common/sessionutil.js",
 	FormatText = "file://{resources}/scripts/common/formattext.js",

@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = require("gamesense/csgo_weapons")
+local var_0_0 = require("gamesense/csgo_weapons")
 local var_0_1 = require("gamesense/images")
 local var_0_2 = ui.new_checkbox("VISUALS", "Player ESP", "Show nades")
 local var_0_3 = ui.new_color_picker("VISUALS", "Player ESP", "Show nades", 255, 255, 255, 200)

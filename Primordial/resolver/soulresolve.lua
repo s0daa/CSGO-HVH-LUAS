@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local ffi_handler = {}
+local ffi_handler = {}
 local tag_changer = {}
 local ui = {}
 

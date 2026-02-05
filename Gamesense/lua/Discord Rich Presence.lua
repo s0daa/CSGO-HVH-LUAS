@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = require("gamesense/named_pipes")
+local var_0_0 = require("gamesense/named_pipes")
 local var_0_1 = require("ffi")
 local var_0_2 = var_0_1.cast
 local var_0_3 = vtable_bind("engine.dll", "VEngineClient014", 26, "bool(__thiscall*)(void*)")

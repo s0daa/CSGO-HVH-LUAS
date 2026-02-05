@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = {
+local var_0_0 = {
 	checkbox = ui.new_checkbox,
 	slider = ui.new_slider,
 	multiselect = ui.new_multiselect,

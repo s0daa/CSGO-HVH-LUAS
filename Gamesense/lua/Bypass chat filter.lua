@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = require("ffi")
+local var_0_0 = require("ffi")
 local var_0_1 = require("gamesense/steamworks")
 local var_0_2 = var_0_0.typeof("char[?]")
 local var_0_3 = vtable_bind("steamclient.dll", "SteamClient017", 9, "uintptr_t*(__thiscall*)(void*, int, const char*)")

@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = "hysteria"
+local var_0_0 = "hysteria"
 local var_0_1 = "2.1"
 local var_0_2 = true
 local var_0_3 = defer

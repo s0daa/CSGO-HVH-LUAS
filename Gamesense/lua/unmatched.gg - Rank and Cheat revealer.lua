@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿if ffi == nil then
+if ffi == nil then
 	ffi = require("ffi")
 end
 

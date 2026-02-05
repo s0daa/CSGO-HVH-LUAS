@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = panorama.open()
+local var_0_0 = panorama.open()
 local var_0_1 = var_0_0.MyPersonaAPI
 local var_0_2 = var_0_0.LobbyAPI
 local var_0_3 = var_0_0.PartyListAPI

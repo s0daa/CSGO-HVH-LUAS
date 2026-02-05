@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local L0 = require 'ffi'
+local L0 = require 'ffi'
 local L1 = require 'bit'
 local L2 = require "vector"
 local L3 = require "gamesense/antiaim_funcs" or error "https://gamesense.pub/forums/viewtopic.php?id=29665"

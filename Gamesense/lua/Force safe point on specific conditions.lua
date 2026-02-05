@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = client.register_esp_flag
+local var_0_0 = client.register_esp_flag
 local var_0_1 = client.set_event_callback
 local var_0_2 = entity.get_players
 local var_0_3 = entity.get_prop

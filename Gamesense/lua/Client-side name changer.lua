@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = require("ffi")
+local var_0_0 = require("ffi")
 local var_0_1 = require("gamesense/string_tables")
 
 local function var_0_2(arg_1_0)

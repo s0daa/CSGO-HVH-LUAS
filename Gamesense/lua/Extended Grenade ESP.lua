@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = client.latency
+local var_0_0 = client.latency
 local var_0_1 = client.set_clan_tag
 local var_0_2 = client.log
 local var_0_3 = client.draw_rectangle

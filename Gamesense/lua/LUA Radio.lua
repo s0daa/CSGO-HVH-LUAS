@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = 15
+local var_0_0 = 15
 local var_0_1 = {
 	"Hits",
 	"House",

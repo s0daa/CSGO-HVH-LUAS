@@ -1,6 +1,6 @@
 -- Downloaded from https://github.com/s0daa/CSGO-HVH-LUAS
 
-﻿local var_0_0 = bit.band
+local var_0_0 = bit.band
 local var_0_1 = client.camera_angles
 local var_0_2 = client.color_log
 local var_0_3 = client.exec
